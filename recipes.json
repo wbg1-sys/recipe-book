@@ -1720,5 +1720,677 @@
   },
   "createdAt": "2026-10-23T20:10:00Z",
   "updatedAt": "2026-10-23T20:10:00Z"
+ },
+ "sesame-chicken-with-cashews-and-dates": {
+  "title": "Sesame Chicken With Cashews and Dates",
+  "category": "Chicken",
+  "description": "",
+  "servings": 4,
+  "servingsText": "4 to 6",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 4,
+    "item": "toasted (Asian) sesame oil",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 1,
+    "item": "2-inch piece fresh ginger, peeled and cut into about 12 “coins”"
+   },
+   {
+    "qty": 6,
+    "item": "garlic cloves, peeled and smashed",
+    "qtyMax": 8
+   },
+   {
+    "qty": 1,
+    "item": "scallions (white and green parts), cut into 2-inch lengths",
+    "unit": "bunch"
+   },
+   {
+    "qty": 3,
+    "item": "dried red chiles, or ½ teaspoon chile flakes",
+    "qtyMax": 4
+   },
+   {
+    "qty": 2,
+    "item": "boneless chicken thighs (preferably skin on, but skinless is O.K.), cut into 2-inch chunks",
+    "unit": "lb"
+   },
+   {
+    "qty": 0.5,
+    "item": "toasted cashews",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.3333,
+    "item": "rice wine or dry sherry",
+    "unit": "cup"
+   },
+   {
+    "qty": 3,
+    "item": "dark soy sauce or tamari",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 4,
+    "item": "pitted dates, thinly sliced"
+   },
+   {
+    "qty": 3,
+    "item": "fresh basil or cilantro leaves, or a combination",
+    "unit": "cup"
+   },
+   {
+    "qty": null,
+    "item": "Rice vinegar or lime juice, to taste"
+   },
+   {
+    "qty": null,
+    "item": "Cooked rice, for serving"
+   }
+  ],
+  "steps": [
+   "Season the chicken with salt and pepper while you heat a 12-inch skillet or wok over high heat until it’s very hot, at least 2 minutes. Add 2 tablespoons of the sesame oil and swirl the pan; the oil should thin on contact. When the oil is hot, add the ginger, garlic, scallions and chile. Stir-fry until the garlic is golden at the edges, 2 to 3 minutes.",
+   "Add the 2 remaining tablespoon oil, chicken and cashews, and stir fry until it starts to brown, 4 to 5 minutes (turn down the heat if the cashews are browning too quickly). Add the rice wine, soy sauce and dates; simmer until the sauce reduces to a syrupy consistency and the chicken cooks through, 5 to 7 minutes.",
+   "Stir in the herbs, sprinkle with rice vinegar or lime juice, and serve over rice."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "tacos-de-carnitas": {
+  "title": "Tacos de Carnitas",
+  "category": "Pork & Sausage",
+  "description": "",
+  "servings": 6,
+  "servingsText": "6 to 8",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 3,
+    "item": "pork shoulder, either butt or picnic",
+    "unit": "lb"
+   },
+   {
+    "qty": 7,
+    "item": "orange zest",
+    "unit": "strip"
+   },
+   {
+    "qty": 5,
+    "item": "garlic cloves, minced"
+   },
+   {
+    "qty": 1,
+    "item": "large onion, chopped, plus finely chopped onion for garnish"
+   },
+   {
+    "qty": 1.25,
+    "item": "crushed red pepper flakes",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1,
+    "item": "cinnamon stick, preferably Mexican canela"
+   },
+   {
+    "qty": 2,
+    "item": "bay leaves"
+   },
+   {
+    "qty": 1.5,
+    "item": "crushed dried oregano leaves, preferably Mexican",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1.5,
+    "item": "kosher salt, more to taste",
+    "unit": "tsp"
+   },
+   {
+    "qty": 0.25,
+    "item": "ground cloves",
+    "unit": "tsp"
+   },
+   {
+    "qty": 24,
+    "item": "small corn tortillas, warmed, for serving"
+   },
+   {
+    "qty": null,
+    "item": "Chopped cilantro for garnish"
+   },
+   {
+    "qty": null,
+    "item": "Salsa for garnish"
+   }
+  ],
+  "steps": [
+   "Trim any thick fat from surface of pork. Cut meat into 1-inch cubes, discarding any that are pure fat. Put pork in a large pot. Add enough water to cover by 2 inches, orange zest, garlic, chopped onion, red pepper flakes, cinnamon, bay leaves, oregano, 1½ teaspoons salt and the cloves.",
+   "Bring to a boil, then reduce to a simmer. Skim off any scum that forms on surface. Simmer uncovered for 1½ hours, until pork is very soft; add water if necessary to keep meat submerged. Season with salt, then continue to cook until water has evaporated, about 30 minutes. Cook a little longer to fry meat slightly; cook even longer if you prefer crisper meat. Stir often and add a bit of water if meat sticks or seems about to burn.",
+   "Remove bay leaves and cinnamon stick. Spoon a few tablespoons of carnitas onto each tortilla. Top each taco with cilantro, finely chopped onion and salsa. Serve."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "the-silver-palates-chicken-marbella": {
+  "title": "The Silver Palate’s Chicken Marbella",
+  "category": "Chicken",
+  "description": "The classic from “The Silver Palate Cookbook” by Sheila Lukins and Julee Rosso.",
+  "servings": 6,
+  "servingsText": "6 to 8",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 0.5,
+    "item": "olive oil",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.5,
+    "item": "red wine vinegar",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "pitted prunes",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.5,
+    "item": "pitted Spanish green olives",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.5,
+    "item": "capers, with a bit of juice",
+    "unit": "cup"
+   },
+   {
+    "qty": 6,
+    "item": "bay leaves"
+   },
+   {
+    "qty": 1,
+    "item": "garlic, peeled and puréed",
+    "unit": "head"
+   },
+   {
+    "qty": 0.5,
+    "item": "fresh oregano, chopped, or ¼ cup dried oregano",
+    "unit": "cup"
+   },
+   {
+    "qty": 2,
+    "item": "salt",
+    "unit": "tsp"
+   },
+   {
+    "qty": 0.25,
+    "item": "freshly ground pepper",
+    "unit": "tsp"
+   },
+   {
+    "qty": 2,
+    "item": "chickens, 3½ to 4 pounds each, quartered"
+   },
+   {
+    "qty": 1,
+    "item": "dry white wine",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "brown sugar",
+    "unit": "cup"
+   },
+   {
+    "qty": 2,
+    "item": "finely chopped flat-leaf parsley",
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "In a large bowl, combine the olive oil, vinegar, prunes, olives, capers and juice, bay leaves, garlic, oregano, salt and pepper. Add the chicken pieces and turn to coat. Refrigerate overnight.",
+   "Preheat the oven to 350 degrees. Arrange the chicken in a single layer in a shallow roasting pan; spoon the marinade over it evenly. Pour in the wine and sprinkle the chicken with the brown sugar.",
+   "Bake until the thigh pieces yield clear yellow juice when pricked with a fork, 50 to 60 minutes, basting two or three times with the pan juices once the chicken begins to brown. (When basting, do not brush off the sugar. If the chicken browns too quickly, cover lightly with foil.)",
+   "Transfer the chicken pieces to a warm serving platter and top with the prunes, olives and capers; keep warm. Place the roasting pan over medium heat and bring the pan juices to a boil. Reduce to about ½ cup. Strain into a heatproof bowl, add the parsley and pour over the chicken."
+  ],
+  "tips": [],
+  "notes": [
+   "Marinate the chicken overnight before baking."
+  ],
+  "source": {
+   "label": "NYT Cooking, from The Silver Palate Cookbook",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "roasted-sweet-potatoes-with-smoked-paprika": {
+  "title": "Roasted Sweet Potatoes With Smoked Paprika",
+  "category": "Sides",
+  "description": "",
+  "servings": 6,
+  "servingsText": "6 to 8",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 4,
+    "item": "large sweet potatoes, peeled and cut into cubes"
+   },
+   {
+    "qty": 1,
+    "item": "large Spanish onion, peeled and cut into cubes"
+   },
+   {
+    "qty": 2,
+    "item": "garlic, peeled and sliced",
+    "unit": "clove"
+   },
+   {
+    "qty": 3,
+    "item": "olive oil",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 0.5,
+    "item": "kosher salt",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1,
+    "item": "freshly ground black pepper",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1,
+    "item": "smoked paprika, or to taste",
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Heat oven to 425 degrees. Combine the sweet potatoes, onion and garlic in a large bowl, and drizzle the olive oil over it, then toss to coat. Sprinkle the salt, pepper and smoked paprika over the potatoes, and toss again to coat. Tip the potatoes onto a sheet pan or into a shallow casserole, then cover it with foil.",
+   "Roast the potatoes in the oven, tossing occasionally, until they are soft at the center and beginning to crisp at the edges, approximately 30 to 40 minutes. Serve hot, drizzled with burned-scallion crema if you like."
+  ],
+  "tips": [],
+  "notes": [
+   "Burned-scallion crema is a separate NYT Cooking recipe."
+  ],
+  "source": {
+   "label": "NYT Cooking",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "umbrian-style-chicken-alla-cacciatora": {
+  "title": "Umbrian-Style Chicken Alla Cacciatora",
+  "category": "Chicken",
+  "description": "",
+  "servings": 3,
+  "servingsText": "3 to 4",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 4,
+    "item": "olive oil (1 tablespoon plus 1 teaspoon)",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1,
+    "item": "small chicken (about 2½ pounds), cut into serving pieces, or use bone-in, skin-on thighs and drumsticks"
+   },
+   {
+    "qty": 1,
+    "item": "onion, sliced"
+   },
+   {
+    "qty": 2,
+    "item": "garlic, very finely minced",
+    "unit": "clove",
+    "qtyMax": 3
+   },
+   {
+    "qty": 1,
+    "item": "capers",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 0.25,
+    "item": "good-quality brine-cured olives, black or green, with pits",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "rosemary",
+    "unit": "sprig"
+   },
+   {
+    "qty": 1,
+    "item": "handful sage leaves"
+   },
+   {
+    "qty": null,
+    "item": "Salt and black pepper"
+   },
+   {
+    "qty": 1,
+    "item": "dry white wine",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.5,
+    "item": "lemon, zested and juiced"
+   },
+   {
+    "qty": 1,
+    "item": "balsamic vinegar",
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Heat 1 tablespoon olive oil in a large non-stick pan. Add chicken pieces and sear over medium heat until golden on all sides, about 15 minutes. Transfer to a plate and wipe the pan clean before proceeding.",
+   "Turn heat to low, add remaining 1 teaspoon oil, and return the chicken to the pan. Add onions and stir frequently until caramelized, about 18 minutes. Add minced garlic, capers, olives, rosemary sprig and sage leaves. Season with just a sprinkle of salt and black pepper.",
+   "After a couple of minutes, when everything smells fragrant, add wine. Cover and simmer very slowly until the chicken is tender and cooked through (165 degrees). Start checking the temperature of the chicken after 15 minutes to avoid overcooking. Add some water if the sauce gets too dry while simmering.",
+   "When ready to serve, reheat if necessary, then add lemon juice and zest and balsamic vinegar. Taste and add more lemon if desired. Remove the rosemary sprig and serve."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "chicken-vesuvio": {
+  "title": "Chicken Vesuvio",
+  "category": "Chicken",
+  "description": "",
+  "servings": 4,
+  "servingsText": "4 to 6",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 3,
+    "item": "large russet potatoes (about 2¼ pounds), scrubbed, halved lengthwise, then cut into long 1-inch-wide wedges"
+   },
+   {
+    "qty": 5,
+    "item": "extra-virgin olive oil",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 1.5,
+    "item": "dried oregano",
+    "unit": "tsp"
+   },
+   {
+    "qty": 3,
+    "item": "bone-in, skin-on chicken thighs (about 8 thighs)",
+    "unit": "lb"
+   },
+   {
+    "qty": null,
+    "item": "Kosher salt and black pepper"
+   },
+   {
+    "qty": 4,
+    "item": "unsalted butter, cut into 4 slices",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 6,
+    "item": "garlic cloves, thinly sliced",
+    "qtyMax": 8
+   },
+   {
+    "qty": 1.25,
+    "item": "chicken stock",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.25,
+    "item": "dry white wine",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "fresh or frozen green peas",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.5,
+    "item": "lemon, juiced"
+   },
+   {
+    "qty": null,
+    "item": "Chopped Italian parsley, for serving"
+   },
+   {
+    "qty": null,
+    "item": "Crusty bread, for serving"
+   }
+  ],
+  "steps": [
+   "Heat oven to 425 degrees. In a 9-by-13-inch baking dish, toss the potato wedges with 3 tablespoons olive oil and ½ teaspoon oregano. Season with salt and pepper. Spread the potatoes out in an even layer. (It’s OK if some overlap). Bake, tossing gently once halfway through cooking, until the edges begin to brown, and the potatoes can be pierced with a fork but are still quite firm, about 30 minutes. (They’ll finish cooking with the chicken.)",
+   "While potatoes roast, prepare the chicken: Season the chicken with salt, pepper and the remaining 1 teaspoon oregano. In a large 12-inch skillet, heat the remaining 2 tablespoons olive oil over medium-high until it shimmers. Working in batches if necessary, cook the chicken, skin-side down, until it is golden brown, 8 to 10 minutes. Transfer the chicken to a plate.",
+   "Reduce heat to medium-low, add the butter and garlic to the skillet and cook until the butter is melted and the garlic is fragrant and just beginning to brown, 2 to 3 minutes. Add the chicken stock and wine to the skillet, bring to a simmer and cook for 2 minutes. Add the peas. Pour the mixture evenly over the potatoes, then gently stir to combine. Place chicken on top of the cooked potato mixture, skin-side up. Drizzle any reserved chicken juices on top.",
+   "Bake until the chicken is cooked through and the potatoes are tender, 20 to 25 minutes. Turn on the oven’s broiler function, and broil until the chicken skin is golden brown and crisp, 1 to 2 minutes. Drizzle with lemon juice, and sprinkle with parsley. Serve immediately, with plenty of the pan juices spooned over the chicken and potatoes, and crusty bread on the side."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "craig-claibornes-beef-stroganoff": {
+  "title": "Craig Claiborne’s Beef Stroganoff",
+  "category": "Beef",
+  "description": "",
+  "servings": 4,
+  "servingsText": "4 to 6",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 0.5,
+    "item": "flour",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "salt",
+    "unit": "tsp"
+   },
+   {
+    "qty": 0.25,
+    "item": "freshly ground black pepper",
+    "unit": "tsp"
+   },
+   {
+    "qty": 2,
+    "item": "beef tenderloin or boneless sirloin of beef, trimmed of all exterior fat and cut into 2-by-¼-by-¼-inch strips",
+    "unit": "lb"
+   },
+   {
+    "qty": 0.5,
+    "item": "butter (one stick)",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.5,
+    "item": "finely chopped onion",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.5,
+    "item": "mushrooms, thinly sliced",
+    "unit": "lb"
+   },
+   {
+    "qty": 2,
+    "item": "beef or chicken stock, ideally homemade",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "sour cream",
+    "unit": "cup"
+   },
+   {
+    "qty": 3,
+    "item": "tomato paste",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 1,
+    "item": "Worcestershire sauce",
+    "unit": "tsp"
+   },
+   {
+    "qty": 3,
+    "item": "finely chopped parsley",
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Combine the flour, salt and pepper. Dredge the meat in the mixture.",
+   "Brown the meat in one-quarter cup of the butter in a saucepan. Remove meat from the pan and set aside.",
+   "Add the onion to the pan and sauté until transparent. Add the mushrooms and remaining butter and sauté 3 to 5 minutes longer.",
+   "Add the beef stock or bouillon and bring to a boil. The preparation, to this point, may be done ahead.",
+   "Add the meat to the sauce and cook until meat is tender but not overcooked, 3 to 10 minutes, stirring often.",
+   "Combine sour cream, tomato paste and Worcestershire sauce. Add some of the beef sauce to sour cream mixture. Return to pan and heat meat and sauce, stirring. Do not boil. Sprinkle with parsley. Serve with buttered parsley noodles."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking, Craig Claiborne",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "pasta-salad-with-roasted-eggplant-chile-and-mint": {
+  "title": "Pasta Salad With Roasted Eggplant, Chile and Mint",
+  "category": "Pasta",
+  "description": "",
+  "servings": 2,
+  "servingsText": "2",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 1.5,
+    "item": "eggplant (about 4 medium), cut into 1-inch cubes",
+    "unit": "lb"
+   },
+   {
+    "qty": 5,
+    "item": "extra-virgin olive oil, more as needed",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 0.5,
+    "item": "kosher salt, more as needed",
+    "unit": "tsp"
+   },
+   {
+    "qty": 0.25,
+    "item": "black pepper, more as needed",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1,
+    "item": "very large ripe tomato, cored and diced (1½ cups)"
+   },
+   {
+    "qty": 0.5,
+    "item": "dried penne",
+    "unit": "lb"
+   },
+   {
+    "qty": 3,
+    "item": "garlic cloves, peeled and smashed"
+   },
+   {
+    "qty": 3,
+    "item": "anchovy fillets"
+   },
+   {
+    "qty": null,
+    "item": "Large pinch chile flakes"
+   },
+   {
+    "qty": 2,
+    "item": "drained capers",
+    "unit": "tbsp"
+   },
+   {
+    "qty": null,
+    "item": "Freshly squeezed lemon juice"
+   },
+   {
+    "qty": 0.25,
+    "item": "torn basil leaves",
+    "unit": "cup"
+   },
+   {
+    "qty": 2,
+    "item": "torn mint leaves",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 2,
+    "item": "finely chopped chives",
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Heat oven to 400 degrees. On rimmed baking sheet, toss together eggplant, 3 tablespoons olive oil, ½ teaspoon salt and ¼ teaspoon pepper. Spread into one layer. Roast, tossing occasionally, until the eggplant is golden brown, about 25 minutes.",
+   "Place tomato in large bowl and sprinkle lightly with salt.",
+   "Bring large pot of salted water to a boil. Cook penne to al dente according to package instructions; drain well.",
+   "While pasta cooks, heat large skillet over medium-high heat. Add 2 tablespoons oil. Stir in garlic, anchovies and chile flakes, and cook until golden and soft, about 3 minutes. Turn off heat and, using slotted spoon, transfer garlic to cutting board. Let garlic cool for a few minutes, then chop up and add back to the oil. Pour garlic-chile into bowl with tomatoes. Add eggplant and capers, and toss well.",
+   "Add pasta to bowl with eggplant and tomatoes. Season with salt, pepper and lemon juice to taste, and drizzle generously with oil. Toss in herbs and serve warm or at room temperature."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking",
+   "url": ""
+  },
+  "createdAt": "2026-10-23T20:25:00Z",
+  "updatedAt": "2026-10-23T20:25:00Z"
  }
 }
