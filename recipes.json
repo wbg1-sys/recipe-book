@@ -897,8 +897,8 @@
    },
    {
     "item": "hot or sweet Italian sausage, casings removed",
-    "qty": 0.8,
-    "unit": "lb"
+    "qty": 12,
+    "unit": "oz"
    },
    {
     "item": "broccoli rabe, trimmed and cut into 2-inch pieces",
@@ -961,7 +961,7 @@
   ],
   "tips": [],
   "title": "Orecchiette With Sausage",
-  "updatedAt": "2026-10-23T20:35:00Z",
+  "updatedAt": "2026-10-23T20:36:00Z",
   "servings": null,
   "servingsText": "",
   "prep": "",
@@ -1233,8 +1233,8 @@
    },
    {
     "item": "hot Italian sausage links, cut into 1-inch pieces",
-    "qty": 0.8,
-    "unit": "lb"
+    "qty": 12,
+    "unit": "oz"
    },
    {
     "item": "cherry peppers (hot or sweet), halved and seeded",
@@ -1303,7 +1303,7 @@
   ],
   "tips": [],
   "title": "Chicken Scarpariello",
-  "updatedAt": "2026-10-23T20:35:00Z",
+  "updatedAt": "2026-10-23T20:36:00Z",
   "servings": null,
   "servingsText": "",
   "prep": "",
