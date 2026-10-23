@@ -482,7 +482,7 @@ function ingredientList(r, f, id, interactive, pfx = "ing") {
 }
 function servingControl(r) {
   const out = h("output", { "aria-live": "polite" });
-  const update = () => { out.textContent = r.servings ? "Serves " + (S.servings || r.servings) : (S.mult === 1 ? "Original" : "× " + fmtNum(S.mult)); };
+  const update = () => { out.textContent = r.servings ? "Serves " + (S.servings || r.servings) : fmtNum(S.mult) + "x"; };
   const step = (d) => {
     if (r.servings) S.servings = Math.max(1, Math.min(99, (S.servings || r.servings) + d));
     else { const opts = [0.5, 1, 1.5, 2, 3, 4]; const i = Math.max(0, Math.min(opts.length - 1, opts.indexOf(S.mult) + d)); S.mult = opts[i]; }
