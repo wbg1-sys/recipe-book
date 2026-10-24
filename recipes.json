@@ -183,9 +183,9 @@
    "Serve with cooked fettuccine. Sprinkle with Parmesan."
   ],
   "tips": [],
-  "title": "Pasta Bolognese",
-  "total": "1 hour",
-  "updatedAt": "2026-10-23T20:35:00Z",
+  "title": "Fettuccine With Bolognese Sauce",
+  "total": "1 hour 5 minutes",
+  "updatedAt": "2026-10-24T14:55:00Z",
   "source": {
    "label": "Real Simple, February 2005",
    "url": ""
@@ -532,11 +532,11 @@
     "unit": "lb"
    },
    {
-    "item": "large red bell peppers (cut into ½\" dice)",
-    "qty": 3
+    "item": "large red bell pepper (cut into ½\" dice)",
+    "qty": 1
    },
    {
-    "item": "thinly sliced celery (about 1 head)",
+    "item": "thinly sliced celery",
     "qty": 3,
     "unit": "cup"
    },
@@ -589,7 +589,7 @@
   "notes": [],
   "prep": "20 minutes",
   "servings": 8,
-  "servingsText": "8",
+  "servingsText": "8 to 10",
   "steps": [
    "Grill chicken 8 minutes per side or until springy to touch. Transfer to a baking dish and sprinkle with lemon juice. Let cool.",
    "Cook pasta according to package directions. Refresh under cold water and let cool (turn frequently to prevent sticking).",
@@ -606,9 +606,9 @@
   ],
   "title": "Grilled Chicken and Ziti Summer Salad",
   "total": "35 minutes",
-  "updatedAt": "2026-10-23T20:35:00Z",
+  "updatedAt": "2026-10-24T14:55:00Z",
   "source": {
-   "label": "",
+   "label": "Handwritten recipe card",
    "url": ""
   }
  },
