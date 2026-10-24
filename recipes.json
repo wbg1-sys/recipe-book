@@ -2489,5 +2489,117 @@
   },
   "createdAt": "2026-10-23T20:25:00Z",
   "updatedAt": "2026-10-23T20:25:00Z"
+ },
+ "miso-glazed-salmon-with-jasmine-rice-and-sesame-spinach": {
+  "title": "Miso-Glazed Salmon With Jasmine Rice and Sesame Spinach",
+  "category": "Seafood",
+  "description": "A complete weeknight dinner: broiled miso salmon over fluffy jasmine rice, with garlicky sesame spinach, timed so everything finishes together.",
+  "servings": 2,
+  "servingsText": "2",
+  "prep": "10 minutes",
+  "cook": "25 minutes",
+  "total": "35 minutes",
+  "ingredients": [
+   {
+    "qty": 1,
+    "item": "jasmine rice",
+    "unit": "cup"
+   },
+   {
+    "qty": 1.25,
+    "item": "water, for the rice",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.25,
+    "item": "kosher salt, for the rice",
+    "unit": "tsp"
+   },
+   {
+    "qty": 3,
+    "item": "white (shiro) miso",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 2,
+    "item": "mirin",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 1,
+    "item": "honey or brown sugar",
+    "unit": "tbsp"
+   },
+   {
+    "qty": 2,
+    "item": "soy sauce, divided",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1,
+    "item": "rice vinegar",
+    "unit": "tsp"
+   },
+   {
+    "qty": 1,
+    "item": "grated fresh ginger",
+    "unit": "tsp"
+   },
+   {
+    "qty": 2,
+    "item": "salmon fillets (6 ounces each)"
+   },
+   {
+    "qty": 2,
+    "item": "neutral oil, divided",
+    "unit": "tsp"
+   },
+   {
+    "qty": 2,
+    "item": "garlic cloves, thinly sliced"
+   },
+   {
+    "qty": 10,
+    "item": "baby spinach",
+    "unit": "oz"
+   },
+   {
+    "qty": 1,
+    "item": "toasted sesame oil",
+    "unit": "tsp"
+   },
+   {
+    "qty": 2,
+    "item": "scallions, thinly sliced"
+   },
+   {
+    "qty": 1,
+    "item": "toasted sesame seeds",
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Rinse the rice in a sieve until the water runs mostly clear. Combine with the water and salt in a small saucepan, bring to a boil, then cover, reduce to the lowest heat, and cook without lifting the lid, 15 minutes.",
+   "While the rice cooks, whisk the miso, mirin, honey, 1 teaspoon of the soy sauce, rice vinegar and ginger. Pat the salmon dry and spread most of the glaze over the tops and sides, saving about a tablespoon. Heat the broiler with a rack about 6 inches below it, and line a sheet pan with foil brushed with 1 teaspoon of the oil.",
+   "When the rice is done, take the pan off the heat and let it sit, still covered, for 10 minutes while you cook the salmon and spinach.",
+   "Broil the salmon skin-side down until the glaze is browned in spots and the fish just flakes at the thickest part (about 125°F for medium), about 7 minutes. Tent with foil if the glaze darkens too fast.",
+   "While the salmon broils, heat the remaining 1 teaspoon oil in a large skillet over medium heat. Add the garlic and cook until fragrant and just golden. Add the spinach a few handfuls at a time, tossing until just wilted, about 3 minutes. Remove from the heat and season with the sesame oil and the remaining 1 teaspoon soy sauce.",
+   "Fluff the rice with a fork. Divide rice and spinach between plates, set the salmon on top, and brush with the reserved glaze. Finish with the scallions and sesame seeds."
+  ],
+  "tips": [
+   "Thick center-cut fillets may need 8 to 10 minutes under the broiler; thin tail pieces 5 to 6.",
+   "A rice cooker works too, using its jasmine setting.",
+   "Spoon any glaze drippings from the foil over the rice."
+  ],
+  "notes": [
+   "Miso brands vary in saltiness, so taste the glaze first and add a little more honey if it's sharp.",
+   "Baby spinach shrinks a lot; use 1 pound for bigger portions."
+  ],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-24T13:38:00Z",
+  "updatedAt": "2026-10-24T13:38:00Z"
  }
 }
