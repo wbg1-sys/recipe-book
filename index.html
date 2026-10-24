@@ -201,9 +201,17 @@ html { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area
 body { margin: 0; -webkit-text-size-adjust: 100%; }
 [hidden] { display: none !important; }
 img { max-width: 100%; }
+/* Phones in landscape: iOS can't lock orientation for web apps, so ask for portrait instead */
+.rotate { display: none; }
+@media (orientation: landscape) and (max-height: 500px) and (pointer: coarse) {
+  .rotate { display: flex; position: fixed; inset: 0; z-index: 100; flex-direction: column; align-items: center; justify-content: center; gap: 12px;
+    background: var(--bg); color: var(--ink); text-align: center; padding: 24px; font-size: 20px; font-weight: 700; }
+  .rotate svg { width: 56px; height: 56px; color: var(--accent); }
+}
 </style>
 </head>
 <body>
+<div class="rotate" role="alert"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="7" y="2" width="10" height="20" rx="2"/><path d="M11 18h2"/></svg>Turn your phone upright to use Recipe Book</div>
 <div class="wrap">
   <section id="library" aria-labelledby="lib-title">
     <div class="lib-head">
@@ -584,6 +592,7 @@ async function load() {
 }
 load();
 document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && $("cook").hidden) load(); });
+try { screen.orientation && screen.orientation.lock && screen.orientation.lock("portrait").catch(() => {}); } catch {}
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
 })();
 </script>
