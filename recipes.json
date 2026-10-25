@@ -2602,5 +2602,144 @@
   },
   "createdAt": "2026-10-24T13:38:00Z",
   "updatedAt": "2026-10-24T21:40:00Z"
+ },
+ "meatballs-and-red-sauce": {
+  "title": "Meatballs and Red Sauce",
+  "category": "Pasta",
+  "description": "Beef and sausage meatballs simmered in a slow-baked tomato sauce enriched with pepperoni and bone-in pork chops.",
+  "servings": null,
+  "servingsText": "",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 8,
+    "item": "tomato paste",
+    "group": "For the sauce",
+    "unit": "oz"
+   },
+   {
+    "qty": 4,
+    "item": "(28-ounce) crushed tomatoes",
+    "group": "For the sauce",
+    "unit": "can"
+   },
+   {
+    "qty": 0.25,
+    "item": "olive oil",
+    "group": "For the sauce",
+    "unit": "cup"
+   },
+   {
+    "qty": 4,
+    "item": "garlic cloves, chopped",
+    "group": "For the sauce"
+   },
+   {
+    "qty": 2,
+    "item": "large onions, chopped",
+    "group": "For the sauce"
+   },
+   {
+    "qty": 0.5,
+    "item": "dry red wine",
+    "group": "For the sauce",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "large pepperoni",
+    "group": "For the sauce"
+   },
+   {
+    "qty": 2,
+    "item": "bone-in pork chops",
+    "group": "For the sauce"
+   },
+   {
+    "qty": 4,
+    "item": "white bread",
+    "group": "For the meatballs",
+    "unit": "slice"
+   },
+   {
+    "qty": 0.75,
+    "item": "whole milk",
+    "group": "For the meatballs",
+    "unit": "cup"
+   },
+   {
+    "qty": 3,
+    "item": "ground beef",
+    "group": "For the meatballs",
+    "unit": "lb"
+   },
+   {
+    "qty": 1,
+    "item": "sweet Italian pork sausage, casings removed",
+    "group": "For the meatballs",
+    "unit": "lb"
+   },
+   {
+    "qty": 1,
+    "item": "grated Parmesan cheese",
+    "group": "For the meatballs",
+    "unit": "cup"
+   },
+   {
+    "qty": 1,
+    "item": "ground nutmeg",
+    "group": "For the meatballs",
+    "unit": "tsp"
+   },
+   {
+    "qty": 0.3333,
+    "item": "fresh parsley, finely chopped",
+    "group": "For the meatballs",
+    "unit": "cup"
+   },
+   {
+    "qty": null,
+    "item": "Salt and pepper to taste",
+    "group": "For the meatballs"
+   },
+   {
+    "qty": 1,
+    "item": "large pasta, such as rigatoni or paccheri",
+    "group": "To serve",
+    "unit": "lb"
+   },
+   {
+    "qty": 1,
+    "item": "baguette",
+    "group": "To serve"
+   },
+   {
+    "qty": null,
+    "item": "Additional grated Parmesan",
+    "group": "To serve"
+   }
+  ],
+  "steps": [
+   "Preheat the oven to 275°F. In a large Dutch oven, heat the oil over medium-low heat. Brown the pork chops on both sides, then remove and set aside.",
+   "Sauté the onions until translucent. Add the garlic and cook until softened, about 2 minutes. Remove half of the onion and garlic mixture and set it aside for the meatballs.",
+   "Add the tomato paste and stir until combined and aromatic, about 1 minute. Stir in the wine, scraping up any bits stuck to the bottom of the pot, and reduce by about half, 1 to 2 minutes. Add the tomatoes and any juices, stir to combine, and bring the sauce to a boil.",
+   "Once the sauce is bubbling, add the pepperoni and place the pot in the oven for at least 4 hours, until the pepperoni is soft and flexible. Add the pork chops about 1½ hours before taking the sauce out of the oven.",
+   "To prepare the meatballs, heat the oven to 475°F (if needed, take the sauce out of the oven and keep it at a low simmer on the stove). Place the bread slices and milk in a large mixing bowl. Once the bread has absorbed the liquid, mash it with a fork.",
+   "Add the reserved onions and garlic, egg, parsley, beef, sausage meat, grated Parmesan, nutmeg, salt and pepper. Gently combine with your hands. Carefully form into 2-inch meatballs and place them on a baking sheet.",
+   "Bake the meatballs for 20 minutes. Transfer them directly into the sauce and simmer for at least 30 minutes to let the flavors combine. Meanwhile, boil water and cook the pasta.",
+   "Before serving, remove the pepperoni and pork chops from the sauce and slice them. Serve with the pasta, baguette and additional grated Parmesan."
+  ],
+  "tips": [],
+  "notes": [
+   "The sauce needs at least 4 hours in the oven, so start early."
+  ],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-25T22:30:00Z",
+  "updatedAt": "2026-10-25T22:30:00Z"
  }
 }
