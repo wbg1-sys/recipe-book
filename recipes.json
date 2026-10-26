@@ -2746,5 +2746,81 @@
   },
   "createdAt": "2026-10-25T22:30:00Z",
   "updatedAt": "2026-10-26T12:26:00Z"
+ },
+ "alcatra-portuguese-style-beef-stew": {
+  "title": "Alcatra (Portuguese-Style Beef Stew)",
+  "category": "Beef",
+  "description": "Beef shank braised in white wine over onions with allspice, bay and cinnamon, finished with Spanish-style chorizo.",
+  "servings": null,
+  "servingsText": "",
+  "prep": "",
+  "cook": "About 4 hours",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 3,
+    "item": "boneless long-cut beef shanks",
+    "unit": "lb"
+   },
+   {
+    "qty": null,
+    "item": "Salt and pepper"
+   },
+   {
+    "qty": 5,
+    "item": "garlic cloves, peeled and smashed"
+   },
+   {
+    "qty": 5,
+    "item": "allspice berries"
+   },
+   {
+    "qty": 4,
+    "item": "bay leaves"
+   },
+   {
+    "qty": 1.5,
+    "item": "peppercorns",
+    "unit": "tsp"
+   },
+   {
+    "qty": 2,
+    "item": "large onions, halved and sliced"
+   },
+   {
+    "qty": 2.25,
+    "item": "dry white wine",
+    "unit": "cup"
+   },
+   {
+    "qty": 0.25,
+    "item": "ground cinnamon",
+    "unit": "tsp"
+   },
+   {
+    "qty": 8,
+    "item": "Spanish-style chorizo sausage, cut into ¼-inch-thick rounds",
+    "unit": "oz"
+   }
+  ],
+  "steps": [
+   "Adjust oven rack to middle position and heat oven to 325 degrees. Trim away any fat or large pieces of connective tissue from exterior of shanks (silverskin can be left on meat). Cut each shank crosswise into 2½-inch pieces. Sprinkle meat with 1 teaspoon salt.",
+   "Cut an 8-inch square of triple-thickness cheesecloth. Place garlic, allspice berries, bay leaves, and peppercorns in center of cheesecloth and tie into bundle with kitchen twine. Arrange onions and spice bundle in Dutch oven in even layer. Add wine and cinnamon. Arrange shank pieces in single layer on top of onions. Cover and cook until beef is tender, about 3½ hours.",
+   "Remove pot from oven and add chorizo. Using tongs, flip each piece of beef over, making sure that chorizo is submerged. Cover and let stand until chorizo is warmed through, about 20 minutes. Discard spice bundle. Season with salt and pepper to taste. Serve."
+  ],
+  "tips": [
+   "Substitution: 4 pounds of bone-in crosscut shank works if that’s all you can find. Remove the bones before cooking (save them for another use) and check for doneness after 3 hours, since crosscut shank cooks more quickly.",
+   "Substitution: a 3½- to 4-pound chuck roast, trimmed of fat and cut into 2½-inch pieces, can replace the shank.",
+   "Serving suggestion: crusty bread or boiled potatoes."
+  ],
+  "notes": [
+   "Long-cut shank is preferred because it has more collagen."
+  ],
+  "source": {
+   "label": "America's Test Kitchen",
+   "url": ""
+  },
+  "createdAt": "2026-10-26T12:30:00Z",
+  "updatedAt": "2026-10-26T12:30:00Z"
  }
 }
