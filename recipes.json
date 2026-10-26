@@ -2822,5 +2822,105 @@
   },
   "createdAt": "2026-10-26T12:30:00Z",
   "updatedAt": "2026-10-26T12:30:00Z"
+ },
+ "mammas-ravioli": {
+  "title": "Mamma’s Ravioli",
+  "category": "Pasta",
+  "description": "Homemade cheese ravioli with a ricotta, mozzarella and parsley filling, boiled and finished in a casserole with tomato sauce. Makes 10 to 12 ravioli.",
+  "servings": null,
+  "servingsText": "",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 4,
+    "unit": "cup",
+    "item": "unbleached flour",
+    "group": "For the dough"
+   },
+   {
+    "qty": 2,
+    "unit": "cup",
+    "item": "boiling water",
+    "group": "For the dough"
+   },
+   {
+    "qty": null,
+    "item": "Salt",
+    "group": "For the dough"
+   },
+   {
+    "qty": 2.5,
+    "unit": "lb",
+    "item": "ricotta",
+    "group": "For the filling"
+   },
+   {
+    "qty": 0.5,
+    "unit": "lb",
+    "item": "mozzarella, chopped",
+    "group": "For the filling"
+   },
+   {
+    "qty": 0.5,
+    "unit": "bunch",
+    "item": "parsley, finely chopped",
+    "group": "For the filling"
+   },
+   {
+    "qty": null,
+    "item": "Salt and pepper",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "qtyMax": 2,
+    "item": "large eggs (see note)",
+    "group": "For the filling"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "grated Romano or Parmesan cheese",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "qtyMax": 2,
+    "unit": "tbsp",
+    "item": "oil",
+    "group": "To cook"
+   },
+   {
+    "qty": null,
+    "item": "Salt",
+    "group": "To cook"
+   },
+   {
+    "qty": null,
+    "item": "Tomato sauce",
+    "group": "To cook"
+   }
+  ],
+  "steps": [
+   "Make the dough: Mix the flour, boiling water and salt. Knead well on a floured board, until a finger-puncture emerges clean. Let rest while mixing the filling.",
+   "Make the filling: In the same bowl, mix the ricotta, mozzarella, parsley, salt and pepper, eggs, and grated Romano or Parmesan well.",
+   "Cut off a chunk of dough and roll. If moist, sprinkle flour and roll more. Roll thin.",
+   "Place 3 dollops of cheese on the edge (1 tbsp each). Fold dough over the dollops and cut with a glass approximately 3 inches in diameter. Close with a fork.",
+   "Boil water with salt and 1 to 2 tbsp oil. When the water is fervently boiling, drop the raviolis in. Cover the pot.",
+   "When the raviolis rise to the top, continue cooking for 10 minutes. Remove with a ladle spoon and let drip.",
+   "Place in a casserole with tomato sauce."
+  ],
+  "tips": [],
+  "notes": [
+   "Eggs: you may need only one. Test: if you can take a clean spoonful of cheese, do not add the second egg. If too thick, add the second egg."
+  ],
+  "source": {
+   "label": "Family recipe",
+   "url": ""
+  },
+  "createdAt": "2026-10-26T12:35:00Z",
+  "updatedAt": "2026-10-26T12:35:00Z"
  }
 }
