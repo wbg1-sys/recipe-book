@@ -549,8 +549,8 @@ function recipeText(r, f) {
   });
   L.push("", "INSTRUCTIONS");
   r.steps.forEach((s, ix) => L.push((ix + 1) + ". " + s));
-  if (r.tips.length) { L.push("", "TIPS"); r.tips.forEach((t) => L.push("• " + t)); }
-  if (r.notes.length) { L.push("", "NOTES"); r.notes.forEach((t) => L.push("• " + t)); }
+  if (r.tips.length) { L.push("", "TIPS"); r.tips.forEach((t) => L.push("• " + plainXrefs(t))); }
+  if (r.notes.length) { L.push("", "NOTES"); r.notes.forEach((t) => L.push("• " + plainXrefs(t))); }
   if (r.source.label) L.push("", "Source: " + r.source.label);
   return L.join("\n");
 }
@@ -567,9 +567,21 @@ async function shareRecipe(id, btn) {
   catch { btn.lastChild.textContent = "Couldn’t copy"; }
   setTimeout(() => { btn.lastChild.textContent = label; }, 2000);
 }
+const XREF = /\[\[([a-z0-9-]+)\]\]/g;
+function xrefTitle(id) { const r = S.recipes.get(id); return r ? r.title : id.replace(/-/g, " "); }
+function plainXrefs(t) { return t.replace(XREF, (_, id) => xrefTitle(id)); }
+function linkify(t) {
+  const out = []; let last = 0;
+  for (const m of t.matchAll(XREF)) {
+    out.push(t.slice(last, m.index));
+    out.push(S.recipes.has(m[1]) ? h("a", { href: "#" + m[1] }, xrefTitle(m[1])) : xrefTitle(m[1]));
+    last = m.index + m[0].length;
+  }
+  out.push(t.slice(last)); return out;
+}
 function tipItem(t, para) {
   const m = /^([A-Z][^:.]{1,30}):\s(.*)$/s.exec(t);
-  const kids = m ? [h("strong", { text: m[1] + ": " }), m[2]] : [t];
+  const kids = m ? [h("strong", { text: m[1] + ": " }), ...linkify(m[2])] : linkify(t);
   return para ? h("span", null, kids) : h("li", null, kids);
 }
 

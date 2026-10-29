@@ -1,6 +1,6 @@
 // Offline support: app shell and recipes are network-first (fresh when online, cached when not);
 // fonts are cache-first.
-const CACHE = "recipe-book-v5";
+const CACHE = "recipe-book-v6";
 const SHELL = ["./", "index.html", "recipes.json", "manifest.webmanifest", "icons/icon-192.png", "icons/apple-touch-icon.png"];
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));

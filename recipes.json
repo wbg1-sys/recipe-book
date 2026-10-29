@@ -2924,5 +2924,101 @@
   },
   "createdAt": "2026-10-26T12:35:00Z",
   "updatedAt": "2026-10-26T12:35:00Z"
+ },
+ "sausage-with-warm-beet-salad-and-garlicky-beet-greens": {
+  "title": "Sausage With Warm Beet Salad and Garlicky Beet Greens",
+  "category": "Pork & Sausage",
+  "description": "A fall oven dinner that uses the whole bunch of beets: the roots roasted whole, peeled and dressed warm with goat cheese and walnuts, the greens sautéed with garlic and chile, and Italian sausage roasted alongside.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "20 minutes",
+  "cook": "About 1 hour",
+  "total": "About 1¼ hours",
+  "ingredients": [
+   {
+    "qty": 2,
+    "unit": "bunch",
+    "item": "beets with greens attached (about 6 medium beets)"
+   },
+   {
+    "qty": 3,
+    "unit": "tbsp",
+    "item": "olive oil, divided"
+   },
+   {
+    "qty": 1.5,
+    "unit": "lb",
+    "item": "sweet or hot Italian sausage links"
+   },
+   {
+    "qty": 1,
+    "item": "small shallot, minced"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "sherry or red wine vinegar, divided"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "Dijon mustard"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "honey"
+   },
+   {
+    "qty": 3,
+    "unit": "clove",
+    "item": "garlic, thinly sliced"
+   },
+   {
+    "qty": 0.25,
+    "unit": "tsp",
+    "item": "red-pepper flakes"
+   },
+   {
+    "qty": 0.3333,
+    "unit": "cup",
+    "item": "walnuts, toasted and chopped"
+   },
+   {
+    "qty": 3,
+    "unit": "oz",
+    "item": "goat cheese or feta, crumbled"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "kosher salt, divided, plus more to taste"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "black pepper"
+   }
+  ],
+  "steps": [
+   "Heat oven to 400 degrees. Cut the greens from the beets, leaving about an inch of stem, and scrub the beets (don’t peel). Wrap the beets in a foil packet with a splash of water, set on a rimmed sheet pan, and roast until a knife slides easily into the largest beet, about 55 minutes.",
+   "While the beets roast, wash the greens well, chop the stems into ½-inch pieces, and roughly chop the leaves, keeping stems and leaves separate. In a large bowl, whisk the shallot, 1½ tablespoons vinegar, the mustard, honey and a pinch of salt. Let the shallot soften in the vinegar, then whisk in 1½ tablespoons olive oil.",
+   "When the beets are nearly done, prick the sausages a few times with a fork and lay them on a foil-lined sheet pan. Roast alongside the beets, turning once halfway, until browned and cooked through (160 degrees), about 25 minutes.",
+   "Pull the beets and sausage from the oven and tent the sausage with foil. Open the beet packet and let the beets cool until you can handle them, about 10 minutes, then rub the skins off with a paper towel. Cut into ¾-inch wedges and toss while still warm with the dressing, ½ teaspoon salt and the pepper.",
+   "While the beets cool, heat the remaining 1½ tablespoons olive oil in a large skillet over medium (add a spoonful of the sausage pan drippings for extra flavor). Add the beet stems and cook until starting to soften, about 3 minutes. Add the garlic and red-pepper flakes and cook 30 seconds, then add the leaves in handfuls with the remaining ½ teaspoon salt, tossing until wilted. Finish with the remaining ½ tablespoon vinegar.",
+   "Scatter the walnuts and goat cheese over the warm beets. Slice the sausage and serve with the beet salad and greens."
+  ],
+  "tips": [
+   "Serve with: [[roasted-sweet-potatoes-with-smoked-paprika]]. That recipe calls for 425 degrees; at 400 degrees alongside the beets, give the potatoes 5 to 10 minutes longer.",
+   "Beet size: small beets may be done in 40 minutes, large ones can take over an hour. Check with a knife rather than the clock.",
+   "Peeling: wear gloves or use a paper towel to avoid stained hands. Golden beets work too and bleed less."
+  ],
+  "notes": [],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-29T23:32:00Z",
+  "updatedAt": "2026-10-29T23:32:00Z"
  }
 }
