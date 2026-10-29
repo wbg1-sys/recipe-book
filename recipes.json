@@ -3295,5 +3295,84 @@
   },
   "createdAt": "2026-10-29T23:42:00Z",
   "updatedAt": "2026-10-29T23:42:00Z"
+ },
+ "classic-deviled-eggs": {
+  "title": "Classic Deviled Eggs",
+  "category": "Sides",
+  "description": "Creamy, tangy yolk filling piped into tender egg whites and finished with paprika and chives. Makes 12 halves.",
+  "servings": 6,
+  "servingsText": "6 (12 halves)",
+  "prep": "15 minutes",
+  "cook": "12 minutes",
+  "total": "About 35 minutes",
+  "ingredients": [
+   {
+    "qty": 6,
+    "item": "large eggs"
+   },
+   {
+    "qty": 3,
+    "unit": "tbsp",
+    "item": "mayonnaise"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "Dijon mustard"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "white wine vinegar or pickle juice"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "unsalted butter, softened (optional, for extra-silky filling)"
+   },
+   {
+    "qty": 0.125,
+    "unit": "tsp",
+    "item": "kosher salt, plus more to taste"
+   },
+   {
+    "qty": 1,
+    "unit": "pinch",
+    "item": "black pepper"
+   },
+   {
+    "qty": null,
+    "item": "Hot sauce, a dash (optional)"
+   },
+   {
+    "qty": 0.25,
+    "unit": "tsp",
+    "item": "paprika or smoked paprika, for garnish"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "chopped chives, for garnish"
+   }
+  ],
+  "steps": [
+   "Bring a medium pot of water to a rolling boil. Gently lower the eggs in with a spoon, reduce to a steady simmer, and cook 12 minutes.",
+   "Transfer the eggs to a bowl of ice water and let them chill completely, about 10 minutes; this makes them easier to peel and keeps the yolks bright yellow.",
+   "Crack the eggs all over and peel under cool running water. Pat dry, slice in half lengthwise, and pop the yolks into a bowl. Arrange the whites on a platter.",
+   "Mash the yolks with a fork until very fine (or press through a sieve for the smoothest texture). Stir in the mayonnaise, mustard, vinegar, butter if using, salt, pepper and hot sauce until creamy. Taste and adjust salt and vinegar.",
+   "Spoon or pipe the filling into the whites (a zip-top bag with a corner snipped off works fine). Dust with paprika and scatter the chives over the top. Serve right away or refrigerate, covered, up to 4 hours."
+  ],
+  "tips": [
+   "Easy peeling: starting the eggs in boiling water instead of cold makes them much easier to peel.",
+   "Variations: fold in crumbled bacon, top with a sliver of cornichon, or swap Greek yogurt for half the mayo.",
+   "Make ahead: keep the filling and whites separate, covered, for up to a day, and fill before serving."
+  ],
+  "notes": [],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-29T23:45:00Z",
+  "updatedAt": "2026-10-29T23:45:00Z"
  }
 }
