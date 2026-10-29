@@ -82,6 +82,8 @@ button { cursor: pointer; }
 .lib-head { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
 .lib-head h1 { font-family: var(--font-display); font-size: clamp(34px, 6vw, 48px); line-height: 1.05; letter-spacing: -.01em; }
 .lib-head p { margin: 6px 0 0; color: var(--muted); }
+.topbar { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin: -6px -10px 14px -10px; }
+.topbar .back { margin: 0; }
 .tools { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 16px; }
 .search { flex: 1 1 260px; min-width: 0; height: 48px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); font-size: 17px; }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
@@ -510,7 +512,11 @@ function renderRecipe() {
   if (r.notes.length) extra.append(h("section", null, h("h2", { class: "sec-h", text: "Notes" }), r.notes.map((t) => h("p", null, tipItem(t, true)))));
   if (r.source.label || r.source.url) extra.append(h("p", { class: "source" }, "Source: ", r.source.url ? h("a", { href: r.source.url, target: "_blank", rel: "noopener" }, r.source.label || r.source.url) : r.source.label));
   box.replaceChildren(
-    h("button", { class: "btn ghost back", type: "button", onclick: () => showLibrary() }, "← All recipes"),
+    h("div", { class: "topbar" },
+      h("button", { class: "btn ghost back", type: "button", onclick: () => showLibrary() }, "← All recipes"),
+      h("button", { class: "btn ghost", type: "button", "aria-label": "Share " + r.title, onclick: (e) => shareRecipe(id, e.currentTarget) },
+        shareIcon(),
+        "Share")),
     h("article", { class: "rc" },
       h("div", { class: "eyebrow", text: r.category }),
       h("h1", { text: r.title }),
@@ -523,6 +529,43 @@ function renderRecipe() {
         h("section", null, h("h2", { class: "sec-h" }, "Instructions", h("small", { text: "Tap a time to start a timer" })), steps)),
       extra.childNodes.length ? extra : null,
       r.updatedAt ? h("p", { class: "source", style: "margin-top:18px" }, "Last updated " + new Date(r.updatedAt).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" })) : null));
+}
+function shareIcon() {
+  const sp = h("span", { "aria-hidden": "true", style: "display:inline-flex" });
+  sp.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 8l5-5 5 5"/><path d="M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>';
+  return sp;
+}
+function recipeText(r, f) {
+  const L = [r.title.toUpperCase()];
+  const scaled = r.servings ? (S.servings || r.servings) !== r.servings : S.mult !== 1;
+  const size = r.servings ? "Serves " + (S.servings || r.servings) : (scaled ? fmtNum(S.mult) + "x recipe" : (r.servingsText ? "Serves " + r.servingsText : ""));
+  const meta = [size, r.total ? "Total " + r.total : ""].filter(Boolean).join(" · ");
+  if (meta) L.push(meta);
+  if (r.description) L.push("", r.description);
+  L.push("", "INGREDIENTS"); let grp = null;
+  r.ingredients.forEach((i) => {
+    if (i.group && i.group !== grp) { grp = i.group; L.push("", i.group + ":"); }
+    const amt = amountText(i, f); L.push("• " + (amt ? amt + " " : "") + i.item);
+  });
+  L.push("", "INSTRUCTIONS");
+  r.steps.forEach((s, ix) => L.push((ix + 1) + ". " + s));
+  if (r.tips.length) { L.push("", "TIPS"); r.tips.forEach((t) => L.push("• " + t)); }
+  if (r.notes.length) { L.push("", "NOTES"); r.notes.forEach((t) => L.push("• " + t)); }
+  if (r.source.label) L.push("", "Source: " + r.source.label);
+  return L.join("\n");
+}
+async function shareRecipe(id, btn) {
+  const r = S.recipes.get(id); if (!r) return;
+  const url = location.origin + location.pathname + "#" + encodeURIComponent(id);
+  const text = recipeText(r, factor(r));
+  if (navigator.share) {
+    try { await navigator.share({ title: r.title, text, url }); } catch {}
+    return;
+  }
+  const label = btn.lastChild.textContent;
+  try { await navigator.clipboard.writeText(text + "\n\n" + url); btn.lastChild.textContent = "Copied"; }
+  catch { btn.lastChild.textContent = "Couldn’t copy"; }
+  setTimeout(() => { btn.lastChild.textContent = label; }, 2000);
 }
 function tipItem(t, para) {
   const m = /^([A-Z][^:.]{1,30}):\s(.*)$/s.exec(t);
