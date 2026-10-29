@@ -3020,5 +3020,156 @@
   },
   "createdAt": "2026-10-29T23:32:00Z",
   "updatedAt": "2026-10-29T23:32:00Z"
+ },
+ "shepherds-pie": {
+  "title": "Shepherd’s Pie",
+  "category": "Beef",
+  "description": "Ground lamb simmered in a rich gravy with carrots, peas and thyme, topped with buttery mashed potatoes and baked until golden.",
+  "servings": 6,
+  "servingsText": "6",
+  "prep": "25 minutes",
+  "cook": "50 minutes",
+  "total": "About 1¼ hours",
+  "ingredients": [
+   {
+    "qty": 2.5,
+    "unit": "lb",
+    "item": "Yukon Gold or russet potatoes, peeled and cut into 2-inch chunks",
+    "group": "For the potato topping"
+   },
+   {
+    "qty": 4,
+    "unit": "tbsp",
+    "item": "unsalted butter, plus 2 tablespoons for dotting",
+    "group": "For the potato topping"
+   },
+   {
+    "qty": 0.75,
+    "unit": "cup",
+    "item": "whole milk, warmed",
+    "group": "For the potato topping"
+   },
+   {
+    "qty": 1,
+    "item": "large egg yolk",
+    "group": "For the potato topping"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "kosher salt, plus more for the potato water",
+    "group": "For the potato topping"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "olive oil",
+    "group": "For the filling"
+   },
+   {
+    "qty": 2,
+    "unit": "lb",
+    "item": "ground lamb",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "item": "large onion, finely chopped",
+    "group": "For the filling"
+   },
+   {
+    "qty": 2,
+    "item": "carrots, diced",
+    "group": "For the filling"
+   },
+   {
+    "qty": 3,
+    "unit": "clove",
+    "item": "garlic, minced",
+    "group": "For the filling"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "tomato paste",
+    "group": "For the filling"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "all-purpose flour",
+    "group": "For the filling"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "red wine (optional; or more broth)",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1.5,
+    "unit": "cup",
+    "item": "beef or chicken broth",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "Worcestershire sauce",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "fresh thyme leaves (or 1 teaspoon dried)",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "chopped fresh rosemary",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "kosher salt, plus more to taste",
+    "group": "For the filling"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "black pepper",
+    "group": "For the filling"
+   },
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "frozen peas",
+    "group": "For the filling"
+   }
+  ],
+  "steps": [
+   "Put the potatoes in a large pot, cover with cold water by an inch, and salt the water generously. Bring to a boil, then simmer until a knife slides in easily, about 18 minutes.",
+   "Meanwhile, heat oven to 400 degrees. Heat the olive oil in a large (12-inch) ovenproof skillet or Dutch oven over medium-high. Add the lamb, breaking it up, and cook until well browned, about 8 minutes. Spoon off all but about 2 tablespoons of the fat.",
+   "Add the onion and carrots and cook, stirring, until softened, about 7 minutes. Add the garlic and tomato paste and cook, stirring, until the paste darkens, about 1 minute.",
+   "Sprinkle in the flour and stir for 1 minute. Add the wine and scrape up the browned bits, then add the broth, Worcestershire, thyme, rosemary, 1 teaspoon salt and the pepper. Simmer, stirring occasionally, until thick and glossy, about 10 minutes. Stir in the peas and taste for salt.",
+   "Drain the potatoes well and return to the pot for a minute to steam dry. Mash with 4 tablespoons butter, the milk and 1 teaspoon salt until smooth, then beat in the egg yolk.",
+   "If you used a Dutch oven, transfer the filling to a 9-by-13-inch baking dish; otherwise leave it in the skillet. Spoon the potatoes over the filling, starting at the edges to seal it in, then spread evenly. Rough up the top with a fork and dot with the remaining 2 tablespoons butter.",
+   "Set on a foil-lined sheet pan and bake until the filling bubbles at the edges and the top is golden, about 25 minutes. For more color, broil for the last 2 to 3 minutes, watching closely.",
+   "Let rest about 10 minutes before serving so the filling sets."
+  ],
+  "tips": [
+   "Cottage pie: use ground beef instead of lamb; everything else stays the same.",
+   "Egg yolk: it helps the potato top brown and hold its shape, but you can skip it.",
+   "Make ahead: assemble up to a day ahead and refrigerate, then add 10 to 15 minutes to the baking time."
+  ],
+  "notes": [],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-29T23:37:00Z",
+  "updatedAt": "2026-10-29T23:37:00Z"
  }
 }
