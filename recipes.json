@@ -3533,5 +3533,131 @@
   },
   "createdAt": "2026-10-29T23:48:00Z",
   "updatedAt": "2026-10-29T23:48:00Z"
+ },
+ "spanish-chicken-chorizo-and-potato-stew": {
+  "title": "Spanish Chicken, Chorizo and Potato Stew",
+  "category": "Chicken",
+  "description": "Boneless chicken thighs braised with smoky Spanish chorizo, potatoes, peppers, white wine and smoked paprika until everything is tender and the broth is brick red.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "20 minutes",
+  "cook": "45 minutes",
+  "total": "About 1 hour",
+  "ingredients": [
+   {
+    "qty": 2,
+    "unit": "lb",
+    "item": "boneless, skinless chicken thighs, halved"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "kosher salt, divided, plus more to taste"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "black pepper"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "olive oil, divided"
+   },
+   {
+    "qty": 6,
+    "unit": "oz",
+    "item": "Spanish-style (cured) chorizo, sliced into ¼-inch rounds"
+   },
+   {
+    "qty": 1,
+    "item": "large onion, chopped"
+   },
+   {
+    "qty": 2,
+    "item": "red bell peppers, cut into 1-inch pieces"
+   },
+   {
+    "qty": 5,
+    "unit": "clove",
+    "item": "garlic, thinly sliced"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "smoked paprika (sweet or hot)"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "tomato paste"
+   },
+   {
+    "qty": 0.75,
+    "unit": "cup",
+    "item": "dry white wine"
+   },
+   {
+    "qty": 1,
+    "unit": "can",
+    "item": "(14-ounce) diced tomatoes"
+   },
+   {
+    "qty": 1.5,
+    "unit": "cup",
+    "item": "chicken broth"
+   },
+   {
+    "qty": 1.5,
+    "unit": "lb",
+    "item": "Yukon Gold potatoes, cut into 1-inch chunks"
+   },
+   {
+    "qty": 2,
+    "item": "bay leaves"
+   },
+   {
+    "qty": 1,
+    "unit": "pinch",
+    "item": "saffron (optional)"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "pitted green olives, such as Manzanilla (optional)"
+   },
+   {
+    "qty": 0.25,
+    "unit": "cup",
+    "item": "chopped fresh parsley"
+   },
+   {
+    "qty": 1,
+    "item": "lemon, cut into wedges"
+   }
+  ],
+  "steps": [
+   "Pat the chicken dry and season all over with 1½ teaspoons salt and the pepper.",
+   "Heat 1 tablespoon olive oil in a large Dutch oven over medium. Add the chorizo and cook, stirring, until it releases its red oil and starts to crisp, about 4 minutes. Move to a plate with a slotted spoon, leaving the oil in the pot.",
+   "Add the remaining 1 tablespoon olive oil and raise the heat to medium-high. Working in 2 batches so the pot isn’t crowded, brown the chicken without moving it until deep golden on the first side, about 4 minutes, then flip and cook 2 minutes more. It doesn’t need to cook through. Move to the plate with the chorizo.",
+   "Reduce the heat to medium. Add the onion and bell peppers with the remaining ½ teaspoon salt and cook, stirring and scraping up the browned bits, until softened, about 7 minutes. Add the garlic, smoked paprika and tomato paste and cook, stirring, until fragrant, about 1 minute.",
+   "Pour in the wine and scrape the bottom of the pot; simmer 2 minutes. Add the tomatoes, broth, potatoes, bay leaves and saffron if using (crumble it in). Return the chicken, chorizo and any juices from the plate and stir to submerge.",
+   "Bring to a simmer, cover, reduce heat to low, and cook until the potatoes are tender and the chicken is very tender, about 25 minutes.",
+   "Uncover, stir in the olives if using, and simmer 5 minutes to thicken slightly. Discard the bay leaves and taste for salt. Scatter with the parsley and serve in shallow bowls with lemon wedges and crusty bread."
+  ],
+  "tips": [
+   "Chorizo: use cured Spanish chorizo (the firm, salami-like kind), not fresh Mexican chorizo, which crumbles and cooks differently.",
+   "Bone-in thighs: use 2½ pounds bone-in, skin-on thighs. Brown skin side down about 8 minutes, nestle them in skin side up above the liquid, and braise about 35 minutes.",
+   "Make ahead: it’s even better the next day."
+  ],
+  "notes": [
+   "Thighs stay juicy through the braise, so don’t swap in breasts, which dry out."
+  ],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-29T23:54:00Z",
+  "updatedAt": "2026-10-29T23:54:00Z"
  }
 }
