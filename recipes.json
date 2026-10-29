@@ -3171,5 +3171,129 @@
   },
   "createdAt": "2026-10-29T23:37:00Z",
   "updatedAt": "2026-10-29T23:37:00Z"
+ },
+ "pork-milanese-with-arugula-salad": {
+  "title": "Pork Milanese With Arugula Salad",
+  "category": "Pork & Sausage",
+  "description": "Bone-in pork chops pounded thin, breaded in panko and Parmesan and fried until crisp, topped with a lemony arugula, tomato and Parmesan salad.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "20 minutes",
+  "cook": "25 minutes",
+  "total": "About 45 minutes",
+  "ingredients": [
+   {
+    "qty": 4,
+    "item": "bone-in pork rib or center-cut chops, about ¾ inch thick (8 to 10 ounces each)",
+    "group": "For the pork"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "kosher salt, plus more for finishing",
+    "group": "For the pork"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "black pepper",
+    "group": "For the pork"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "all-purpose flour",
+    "group": "For the pork"
+   },
+   {
+    "qty": 2,
+    "item": "large eggs",
+    "group": "For the pork"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "water",
+    "group": "For the pork"
+   },
+   {
+    "qty": 1.5,
+    "unit": "cup",
+    "item": "panko breadcrumbs",
+    "group": "For the pork"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "finely grated Parmesan, plus shavings for serving",
+    "group": "For the pork"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "neutral oil or olive oil, for frying",
+    "group": "For the pork"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "unsalted butter",
+    "group": "For the pork"
+   },
+   {
+    "qty": 5,
+    "unit": "oz",
+    "item": "baby arugula (about 6 cups)",
+    "group": "For the salad"
+   },
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "cherry tomatoes, halved",
+    "group": "For the salad"
+   },
+   {
+    "qty": 0.25,
+    "item": "small red onion, very thinly sliced",
+    "group": "For the salad"
+   },
+   {
+    "qty": 1,
+    "item": "lemon, half juiced, half cut into wedges",
+    "group": "For the salad"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "extra-virgin olive oil",
+    "group": "For the salad"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "kosher salt",
+    "group": "For the salad"
+   }
+  ],
+  "steps": [
+   "Heat oven to 400 degrees and set a wire rack on a sheet pan. Trim any thick fat cap from the chops and make a few small cuts through the fat at the edge so they don’t curl. Place each chop between sheets of plastic wrap and pound the meat (not the bone) with a meat mallet to an even ½-inch thickness, leaving the bone attached. Season both sides with 1 teaspoon salt and the pepper.",
+   "Put the flour in a shallow dish. In a second dish, beat the eggs with the water. In a third, mix the panko and grated Parmesan, crushing the panko a little with your hand.",
+   "Dredge each chop in flour and shake off the excess, dip in egg and let the excess drip off, then press firmly into the crumbs to coat both sides, working around the bone. Let sit 5 minutes so the coating sets.",
+   "Heat the oil and butter in a large skillet over medium-high until the butter foams. Fry 2 chops at a time until deep golden and crisp, about 4 minutes per side. Transfer to the rack and repeat with the rest, adding a little more oil if the pan gets dry.",
+   "Put the chops on the rack into the oven until the meat near the bone reaches 140 degrees, 5 to 8 minutes. Sprinkle with a pinch of salt and let rest 5 minutes (they’ll climb to 145 degrees).",
+   "While the chops rest, toss the arugula, tomatoes and red onion with the juice from half the lemon, the olive oil and ½ teaspoon salt.",
+   "Put a chop on each plate, pile the arugula salad on top, and finish with Parmesan shavings. Serve with lemon wedges."
+  ],
+  "tips": [
+   "Pork tenderloin instead: use 1¼ pounds, cut crosswise into 4 pieces and pounded to ¼ inch. Fry about 3 minutes per side; at that thickness it cooks through in the pan, so skip the oven.",
+   "Chicken Milanese: chicken breasts work the same way."
+  ],
+  "notes": [],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-29T23:42:00Z",
+  "updatedAt": "2026-10-29T23:42:00Z"
  }
 }
