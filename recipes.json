@@ -3659,5 +3659,104 @@
   },
   "createdAt": "2026-10-29T23:54:00Z",
   "updatedAt": "2026-10-29T23:54:00Z"
+ },
+ "sausage-stuffed-acorn-squash": {
+  "title": "Sausage-Stuffed Acorn Squash",
+  "category": "Pork & Sausage",
+  "description": "Roasted acorn squash halves filled with Italian sausage, apple, onion, sage and Parmesan breadcrumbs, baked until golden on top.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "15 minutes",
+  "cook": "50 minutes",
+  "total": "About 1 hour",
+  "ingredients": [
+   {
+    "qty": 2,
+    "item": "acorn squash (about 1½ pounds each)"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "olive oil, divided"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "kosher salt, divided, plus more to taste"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "black pepper"
+   },
+   {
+    "qty": 1,
+    "unit": "lb",
+    "item": "sweet or hot Italian sausage, casings removed"
+   },
+   {
+    "qty": 1,
+    "item": "medium onion, finely chopped"
+   },
+   {
+    "qty": 1,
+    "item": "firm apple (such as Honeycrisp or Granny Smith), cored and diced"
+   },
+   {
+    "qty": 2,
+    "unit": "clove",
+    "item": "garlic, minced"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "chopped fresh sage (or 1 teaspoon dried)"
+   },
+   {
+    "qty": 2,
+    "unit": "cup",
+    "item": "baby spinach or chopped kale (optional)"
+   },
+   {
+    "qty": 0.75,
+    "unit": "cup",
+    "item": "panko breadcrumbs, divided"
+   },
+   {
+    "qty": 0.75,
+    "unit": "cup",
+    "item": "grated Parmesan, divided"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "maple syrup (optional)"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "chopped fresh parsley"
+   }
+  ],
+  "steps": [
+   "Heat oven to 400 degrees. Halve the squash through the stem and scoop out the seeds. If the halves wobble, shave a thin slice off the bottoms so they sit flat. Brush the cut sides with 1 tablespoon olive oil, season with ½ teaspoon salt and the pepper, and set cut side down on a foil-lined sheet pan. Roast until a knife slides easily into the flesh, about 35 minutes.",
+   "While the squash roasts, heat the remaining 1 tablespoon olive oil in a large skillet over medium-high. Add the sausage and cook, breaking it into small crumbles, until browned and cooked through, about 7 minutes.",
+   "Add the onion and apple and cook, stirring, until softened, about 6 minutes. Add the garlic and sage and cook 1 minute. Stir in the spinach or kale if using, until wilted. Remove from the heat.",
+   "Stir ½ cup panko, ½ cup Parmesan and the remaining ½ teaspoon salt into the sausage mixture. In a small bowl, mix the remaining ¼ cup panko and ¼ cup Parmesan for the topping.",
+   "Flip the squash cut side up and brush the flesh with maple syrup if using. Mound the filling into the halves, pressing it in gently, and sprinkle with the topping. Return to the oven until the tops are golden and crisp, about 15 minutes.",
+   "Scatter with parsley and serve one half per person."
+  ],
+  "tips": [
+   "Other squash: delicata or small butternut work too; check them a little sooner.",
+   "Variations: swap the apple for ½ cup dried cranberries for a sweeter version, or add ½ cup cooked farro or rice to stretch the filling. Any extra filling can bake in a small dish alongside.",
+   "Make ahead: roast the squash and make the filling up to a day ahead; stuff and bake about 25 minutes from cold."
+  ],
+  "notes": [],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-10-30T14:26:00Z",
+  "updatedAt": "2026-10-30T14:26:00Z"
  }
 }
