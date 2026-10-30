@@ -73,7 +73,7 @@
   }
  },
  "bolognese": {
-  "category": "Beef",
+  "category": "Pasta",
   "cook": "45 minutes",
   "createdAt": "2026-10-23T19:30:00Z",
   "description": "",
@@ -185,7 +185,7 @@
   "tips": [],
   "title": "Fettuccine With Bolognese Sauce",
   "total": "1 hour 5 minutes",
-  "updatedAt": "2026-10-24T14:55:00Z",
+  "updatedAt": "2026-10-30T16:03:00Z",
   "source": {
    "label": "Real Simple, February 2005",
    "url": ""
@@ -886,7 +886,7 @@
   }
  },
  "orecchiette-with-sausage": {
-  "category": "Pork & Sausage",
+  "category": "Pasta",
   "createdAt": "2026-10-23T19:30:00Z",
   "description": "",
   "ingredients": [
@@ -961,7 +961,7 @@
   ],
   "tips": [],
   "title": "Orecchiette With Sausage",
-  "updatedAt": "2026-10-23T20:36:00Z",
+  "updatedAt": "2026-10-30T16:03:00Z",
   "servings": null,
   "servingsText": "",
   "prep": "",
