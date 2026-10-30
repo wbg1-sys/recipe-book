@@ -3758,5 +3758,87 @@
   },
   "createdAt": "2026-10-30T14:26:00Z",
   "updatedAt": "2026-10-30T14:26:00Z"
+ },
+ "one-pot-chicken-and-rice-with-caramelized-lemon": {
+  "title": "One-Pot Chicken and Rice With Caramelized Lemon",
+  "category": "Chicken",
+  "description": "This simple one-pot chicken and rice dish is topped with caramelized lemon slices that add sweet flavor and texture. Briny Castelvetrano olives and herby dried oregano are wrapped up in creamy rice and topped with juicy chicken thighs.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "10 minutes",
+  "cook": "45 minutes",
+  "total": "55 minutes",
+  "ingredients": [
+   {
+    "qty": 4,
+    "item": "bone-in, skin-on chicken thighs (about 1½ pounds)"
+   },
+   {
+    "qty": null,
+    "item": "Salt and black pepper"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "dried oregano"
+   },
+   {
+    "qty": null,
+    "item": "Crushed red pepper"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "extra-virgin olive oil"
+   },
+   {
+    "qty": 2,
+    "item": "lemons"
+   },
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "pitted Castelvetrano or kalamata olives, smashed and roughly chopped"
+   },
+   {
+    "qty": 6,
+    "unit": "clove",
+    "item": "garlic, minced"
+   },
+   {
+    "qty": 1,
+    "item": "medium shallot or ½ medium onion, minced"
+   },
+   {
+    "qty": 2,
+    "unit": "cup",
+    "item": "long-grain white rice, rinsed"
+   },
+   {
+    "qty": 4,
+    "unit": "cup",
+    "item": "(32 ounces) chicken broth"
+   },
+   {
+    "qty": 0.25,
+    "unit": "cup",
+    "item": "roughly chopped fresh parsley, for serving"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 400 degrees. Use paper towels to pat the chicken thighs until dry on all sides. Season the chicken with 1 teaspoon each salt, pepper and dried oregano and a pinch of crushed red pepper.",
+   "Place a large Dutch oven or other heavy-bottomed pot over medium-high heat and add oil. Let oil heat up for a few minutes. Add thighs to the pot, skin side down, and let cook undisturbed until they self-release from the bottom of the pot, about 5 minutes. Remove from the pot and set aside.",
+   "Cut 1 lemon into ¼-inch-thick slices. Add to the pot and cook until caramelized and softened, about 2 minutes. Remove from the pot and set aside.",
+   "Add the olives, garlic, shallot and 1 teaspoon each salt, pepper and dried oregano to the pot. Cook over medium-low heat, scraping browned bits from the bottom of the pan, until garlic is fragrant, 2 to 3 minutes. Turn the heat up to high, add the rice and broth to the pot, stir to combine and cover until it comes to a boil, about 5 minutes.",
+   "Remove the pot from heat, add the browned chicken thighs on top of the rice, skin side up, then cover the chicken thighs with the lemon slices. Place the pot, covered, into the oven and bake until the rice and chicken are fully cooked, 25 to 30 minutes. Serve topped with fresh parsley and a squeeze of lemon juice."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking, Dan Pelosi",
+   "url": ""
+  },
+  "createdAt": "2026-10-30T14:40:00Z",
+  "updatedAt": "2026-10-30T14:40:00Z"
  }
 }
