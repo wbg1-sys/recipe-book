@@ -3840,5 +3840,205 @@
   },
   "createdAt": "2026-10-30T14:40:00Z",
   "updatedAt": "2026-10-30T14:40:00Z"
+ },
+ "chicken-stew": {
+  "title": "Chicken Stew",
+  "category": "Chicken",
+  "description": "This creamy, cozy chicken stew is fast enough for a weeknight meal yet satisfying enough for a long Sunday dinner.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "15 minutes",
+  "cook": "45 minutes",
+  "total": "1 hour",
+  "ingredients": [
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "butter"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "olive oil"
+   },
+   {
+    "qty": 1,
+    "item": "medium onion, diced (about 6 ounces)"
+   },
+   {
+    "qty": 2,
+    "item": "medium carrots, peeled and diced (about 5 ounces)"
+   },
+   {
+    "qty": 3,
+    "unit": "stalk",
+    "item": "celery, diced (about 3 ounces)"
+   },
+   {
+    "qty": 4,
+    "unit": "clove",
+    "item": "garlic, minced"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "sweet paprika"
+   },
+   {
+    "qty": null,
+    "item": "Salt and black pepper"
+   },
+   {
+    "qty": 3,
+    "unit": "tbsp",
+    "item": "all-purpose flour"
+   },
+   {
+    "qty": 4,
+    "unit": "cup",
+    "item": "chicken broth"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "apple cider vinegar"
+   },
+   {
+    "qty": 1.5,
+    "unit": "lb",
+    "item": "boneless, skinless chicken thighs (3 to 4 depending on size)"
+   },
+   {
+    "qty": 1,
+    "unit": "lb",
+    "item": "baby potatoes, cut into quarters"
+   },
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "(1-inch pieces) green beans (about 4 ounces)"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "heavy cream"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "dried sage"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "dried thyme"
+   },
+   {
+    "qty": 0.5,
+    "unit": "tsp",
+    "item": "dried oregano"
+   },
+   {
+    "qty": null,
+    "item": "Fresh parsley, for serving"
+   },
+   {
+    "qty": null,
+    "item": "Lemon wedges, for serving"
+   }
+  ],
+  "steps": [
+   "Heat a large pot or Dutch oven on medium. Add butter, olive oil, onion, carrots, celery, garlic, paprika and a big pinch of salt and cook, stirring frequently, until onion is translucent, 5 to 7 minutes.",
+   "Add flour and stir for 1 minute. Add chicken broth and vinegar and stir until flour is incorporated.",
+   "Add chicken thighs, potatoes, green beans, heavy cream, sage, thyme, oregano, and 1 teaspoon each of salt and black pepper. Bring the stew to a gentle boil on medium-high and then reduce heat to maintain a simmer. Simmer, with the lid partially covering the pot, until the chicken is cooked through, about 20 minutes.",
+   "Transfer the chicken to a plate. Completely cover the pot with the lid and let the vegetables cook for 5 to 10 minutes, until desired doneness. Meanwhile, shred the chicken into bite-size pieces with two forks, then return the chicken to the pot. Season to taste with more salt and pepper. Serve warm, garnished with parsley, with lemon wedges on the side if desired."
+  ],
+  "tips": [
+   "Freezing: The stew can be frozen for up to 3 months, then defrosted for easy reheating."
+  ],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking, Dan Pelosi",
+   "url": ""
+  },
+  "createdAt": "2026-11-05T18:24:00Z",
+  "updatedAt": "2026-11-05T18:24:00Z"
+ },
+ "old-fashioned-beef-stew": {
+  "title": "Old-Fashioned Beef Stew",
+  "category": "Beef",
+  "description": "This classic stick-to-your-ribs stew is the ideal project for a chilly weekend. Beef, onion, carrots, potatoes and red wine come together in one pot.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "15 minutes",
+  "cook": "2 hours 30 minutes",
+  "total": "2 hours 45 minutes",
+  "ingredients": [
+   {
+    "qty": 0.25,
+    "unit": "cup",
+    "item": "all-purpose flour"
+   },
+   {
+    "qty": null,
+    "item": "Salt and freshly ground black pepper"
+   },
+   {
+    "qty": 1,
+    "unit": "lb",
+    "item": "beef stewing meat, trimmed and cut into inch cubes"
+   },
+   {
+    "qty": 5,
+    "unit": "tsp",
+    "item": "vegetable oil"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "red wine vinegar"
+   },
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "red wine"
+   },
+   {
+    "qty": 3.5,
+    "unit": "cup",
+    "item": "beef broth, homemade or low-sodium canned"
+   },
+   {
+    "qty": 2,
+    "item": "bay leaves"
+   },
+   {
+    "qty": 1,
+    "item": "medium onion, peeled and chopped"
+   },
+   {
+    "qty": 5,
+    "item": "medium carrots, peeled and cut into ¼-inch rounds"
+   },
+   {
+    "qty": 2,
+    "item": "large baking potatoes, peeled and cut into ¾-inch cubes"
+   }
+  ],
+  "steps": [
+   "Combine the flour and ¼ teaspoon pepper in a bowl, add the beef and toss to coat well. Heat 3 teaspoons of the oil in a large pot. Add the beef a few pieces at a time; do not overcrowd. Cook, turning the pieces until beef is browned on all sides, about 5 minutes per batch; add more oil as needed between batches.",
+   "Remove the beef from the pot and add the vinegar and wine. Cook over medium-high heat, scraping the pan with a wooden spoon to loosen any browned bits. Add the beef, beef broth and bay leaves. Bring to a boil, then reduce to a slow simmer.",
+   "Cover and cook, skimming broth from time to time, until the beef is tender, about 1½ hours. Add the onions and carrots and simmer, covered, for 10 minutes. Add the potatoes and simmer until vegetables are tender, about 30 minutes more. Add broth or water if the stew is dry. Season with 2 teaspoons salt and pepper to taste. Ladle among 4 bowls and serve."
+  ],
+  "tips": [
+   "Choosing the beef: When choosing a cut of beef for the stew, consider chuck roast, bottom round, top round or a mix of the above, often sold as “stew meat.” These all have enough collagen and fat to emerge soft and tender from the pot. Avoid leaner cuts like tenderloin or sirloin, which tend to toughen up after a long simmer."
+  ],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking, Molly O’Neill",
+   "url": ""
+  },
+  "createdAt": "2026-11-05T18:24:00Z",
+  "updatedAt": "2026-11-05T18:24:00Z"
  }
 }
