@@ -291,121 +291,6 @@
    "url": ""
   }
  },
- "chicken-curry": {
-  "category": "Chicken",
-  "createdAt": "2026-10-23T19:30:00Z",
-  "description": "",
-  "ingredients": [
-   {
-    "item": "boneless chicken breasts or thighs, cut into 1½-inch pieces",
-    "qty": 2,
-    "unit": "lb"
-   },
-   {
-    "item": "garam masala, divided",
-    "qty": 2.5,
-    "unit": "tsp"
-   },
-   {
-    "item": "turmeric, divided",
-    "qty": 1,
-    "unit": "tsp"
-   },
-   {
-    "item": "cumin, divided",
-    "qty": 1,
-    "unit": "tsp"
-   },
-   {
-    "item": "coriander, divided",
-    "qty": 1,
-    "unit": "tsp"
-   },
-   {
-    "item": "cayenne pepper",
-    "qty": 0.3333,
-    "unit": "tsp"
-   },
-   {
-    "item": "fresh ginger, grated, divided",
-    "qty": 1,
-    "unit": "tbsp"
-   },
-   {
-    "item": "garlic cloves, minced, divided",
-    "qty": 4
-   },
-   {
-    "item": "salt",
-    "qty": 1,
-    "unit": "tsp"
-   },
-   {
-    "item": "yellow onions, finely diced",
-    "qty": 2
-   },
-   {
-    "item": "red bell pepper, diced",
-    "qty": 1
-   },
-   {
-    "item": "plain Greek yogurt, divided",
-    "qty": 1.5,
-    "unit": "cup"
-   },
-   {
-    "item": "almond butter",
-    "qty": 3,
-    "unit": "tbsp"
-   },
-   {
-    "item": "frozen peas",
-    "qty": 1,
-    "unit": "cup"
-   },
-   {
-    "item": "neutral oil (vegetable or coconut)",
-    "qty": 3,
-    "unit": "tbsp"
-   },
-   {
-    "item": "basmati rice",
-    "qty": 1.5,
-    "unit": "cup"
-   },
-   {
-    "item": "fresh cilantro, chopped",
-    "qty": 3,
-    "unit": "tbsp"
-   },
-   {
-    "item": "Lemon or lime wedges",
-    "qty": null
-   }
-  ],
-  "notes": [],
-  "steps": [
-   "In a large bowl, combine half the Greek yogurt (reserve the rest for the sauce) with half the garam masala, turmeric, cumin, and coriander, plus the cayenne, half the ginger, half the garlic, and the salt. Add the chicken and toss to coat thoroughly. Cover and refrigerate for at least 60 minutes, or overnight for best results.",
-   "Rinse the basmati rice under cold water until the water runs clear. Combine with 2¼ cups water and a pinch of salt in a saucepan. Bring to a boil, then reduce heat to the lowest setting, cover, and cook for 20 minutes. Remove from heat and let steam, covered, for 5 more minutes. Fluff with a fork.",
-   "Heat 2 tablespoons of the neutral oil in a large heavy skillet or Dutch oven over medium-high heat. Remove the chicken from the marinade (don't wipe it clean) and sear in batches for 2 to 6 minutes per side until browned. It doesn't need to be cooked through yet. Transfer to a plate.",
-   "Add the remaining oil to the pan over medium heat. Add the remaining garam masala, turmeric, cumin, and coriander and toast, stirring constantly, until fragrant. Add the onion and cook for 6 to 8 minutes until softened and golden. Add the remaining ginger and garlic and cook 1 minute more.",
-   "Add the bell pepper and cook for 5 minutes until slightly softened. Return the seared chicken and any resting juices to the pan and stir to coat. Reduce heat to medium-low and cook for 12 to 15 minutes, stirring occasionally, until the chicken is cooked through. The onions and peppers will release enough moisture to keep things from sticking — add a small splash of water if needed.",
-   "Reduce heat to low. Temper the remaining yogurt by stirring a spoonful of the hot curry into it, then stir the mixture back into the pan. Add the almond butter and stir until fully incorporated and the sauce is smooth and creamy. Do not boil after adding the yogurt.",
-   "Stir in the peas and cook for 2 to 3 minutes until just heated through. Taste and adjust seasoning with salt. Serve over the basmati rice, garnished with cilantro and lemon or lime wedges for squeezing over."
-  ],
-  "tips": [],
-  "title": "Chicken Curry",
-  "updatedAt": "2026-10-23T20:35:00Z",
-  "servings": null,
-  "servingsText": "",
-  "prep": "",
-  "cook": "",
-  "total": "",
-  "source": {
-   "label": "",
-   "url": ""
-  }
- },
  "francese": {
   "category": "Chicken",
   "createdAt": "2026-10-23T19:30:00Z",
@@ -4134,5 +4019,206 @@
   },
   "createdAt": "2026-11-08T19:17:00Z",
   "updatedAt": "2026-11-08T19:17:00Z"
+ },
+ "butter-chicken": {
+  "title": "Butter Chicken",
+  "category": "Chicken",
+  "description": "Butter chicken is a great, ever-evolving, cross-continental dish found in Delhi, London, New York, Perth and most points in between. In its purest form, it is yogurt-and-spice-marinated chicken dressed in a velvety red bath.",
+  "servings": 6,
+  "servingsText": "6",
+  "prep": "",
+  "cook": "",
+  "total": "1 hour 15 minutes",
+  "ingredients": [
+   {
+    "qty": 1.5,
+    "unit": "cup",
+    "item": "full-fat Greek yogurt"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "lemon juice"
+   },
+   {
+    "qty": 1.5,
+    "unit": "tbsp",
+    "item": "ground turmeric"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "ground cumin"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "garam masala"
+   },
+   {
+    "qty": 3,
+    "unit": "lb",
+    "item": "chicken thighs, on the bone"
+   },
+   {
+    "qty": 0.25,
+    "unit": "lb",
+    "item": "unsalted butter"
+   },
+   {
+    "qty": 4,
+    "unit": "tsp",
+    "item": "neutral oil, like vegetable or canola oil"
+   },
+   {
+    "qty": 2,
+    "item": "medium-size yellow onions, peeled and diced"
+   },
+   {
+    "qty": 4,
+    "unit": "clove",
+    "item": "garlic, peeled and minced"
+   },
+   {
+    "qty": 3,
+    "unit": "tbsp",
+    "item": "fresh ginger, peeled and grated or finely diced"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "cumin seeds"
+   },
+   {
+    "qty": 1,
+    "item": "cinnamon stick"
+   },
+   {
+    "qty": 2,
+    "item": "medium-size tomatoes, diced"
+   },
+   {
+    "qty": 2,
+    "item": "red chiles, like Anaheim, or 1 jalapeño pepper, seeded and diced"
+   },
+   {
+    "qty": null,
+    "item": "Kosher salt to taste"
+   },
+   {
+    "qty": 0.6667,
+    "unit": "cup",
+    "item": "chicken stock, low-sodium or homemade"
+   },
+   {
+    "qty": 1.5,
+    "unit": "cup",
+    "item": "cream"
+   },
+   {
+    "qty": 1.5,
+    "unit": "tsp",
+    "item": "tomato paste"
+   },
+   {
+    "qty": 3,
+    "unit": "tbsp",
+    "item": "ground almonds, or finely chopped almonds, optional"
+   },
+   {
+    "qty": 0.5,
+    "unit": "bunch",
+    "item": "cilantro leaves, stems removed"
+   }
+  ],
+  "steps": [
+   "Whisk together the yogurt, lemon juice, turmeric, cumin and garam masala in a large bowl. Put the chicken in, and coat with the marinade. Cover, and refrigerate (for up to a day).",
+   "In a large pan over medium heat, melt the butter in the oil until it starts to foam. Add the onions, and cook, stirring frequently, until translucent. Add the garlic, ginger and cumin seeds, and cook until the onions start to brown.",
+   "Add the cinnamon stick, tomatoes, chiles and salt, and cook until the chiles are soft, about 10 minutes.",
+   "Add the chicken and marinade to the pan, and cook for 5 minutes, then add the chicken stock. Bring the mixture to a boil, then lower the heat and simmer, uncovered, for approximately 30 minutes.",
+   "Stir in the cream and tomato paste, and simmer until the chicken is cooked through, approximately 10 to 15 minutes.",
+   "Add the almonds, if using, cook for an additional 5 minutes and remove from the heat. Garnish with the cilantro leaves."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking, recipe from Amandeep Sharma, adapted by Sam Sifton",
+   "url": ""
+  },
+  "createdAt": "2026-11-08T20:50:00Z",
+  "updatedAt": "2026-11-08T20:50:00Z"
+ },
+ "pasta-alla-genovese": {
+  "title": "Pasta Alla Genovese",
+  "category": "Pasta",
+  "description": "To many Neapolitans, the beef sauce La Genovese is at the heart of the city's cooking. Yet it’s little more than onions (lots of them) and beef, simmered until both fall apart. Boiling the onions before cooking is a variation on traditional technique and could be considered a shortcut; it does save time, though not a whole lot of it. It's easy enough, and more traditional, to slice the onions raw and increase cooking time accordingly.",
+  "servings": 6,
+  "servingsText": "6 to 8",
+  "prep": "",
+  "cook": "",
+  "total": "3½ hours",
+  "ingredients": [
+   {
+    "qty": 4.25,
+    "unit": "lb",
+    "item": "red onions"
+   },
+   {
+    "qty": 0.3333,
+    "unit": "cup",
+    "item": "extra-virgin olive oil"
+   },
+   {
+    "qty": 2,
+    "item": "carrots, peeled and roughly chopped"
+   },
+   {
+    "qty": 1,
+    "unit": "stalk",
+    "item": "celery, trimmed and roughly chopped"
+   },
+   {
+    "qty": 0.25,
+    "unit": "lb",
+    "item": "bacon or pancetta, chopped"
+   },
+   {
+    "qty": 2.25,
+    "unit": "lb",
+    "item": "beef chuck, cut into 2-inch cubes"
+   },
+   {
+    "qty": null,
+    "item": "Salt and freshly ground black pepper"
+   },
+   {
+    "qty": 0.25,
+    "unit": "cup",
+    "item": "dry white wine, plus more if desired"
+   },
+   {
+    "qty": 1,
+    "unit": "lb",
+    "item": "dried pasta, like ziti, tortiglioni or rigatoni"
+   },
+   {
+    "qty": null,
+    "item": "Finely grated Parmesan cheese"
+   }
+  ],
+  "steps": [
+   "Bring a large pot of water to a boil. Place the onions in the boiling water, and cook, covered, 15 minutes. Drain the onions, and let cool a bit, then slice very thinly.",
+   "Heat half the oil in a large heavy pot over medium-high heat; stir in the carrots, celery and bacon, and cook for 4 minutes. Add the beef, then cover with the onions. Pour the remaining oil over the onions, then sprinkle with 1½ teaspoons salt and ¾ teaspoon pepper. Cover, bring to a simmer and cook gently until the beef is tender, about 2 hours; the onions will release a good deal of liquid.",
+   "Uncover the pot and bring to a boil. Cook, stirring more frequently as the liquid reduces and lowering the heat as necessary to prevent scorching, until the meat has fallen apart and the sauce is creamy, about 45 minutes. Stir in the wine and taste, adding more wine if desired. Reduce the heat to low, and continue to cook, stirring frequently, until the sauce is glossy and quite thick, about 15 minutes more.",
+   "Cook the pasta in a large pot of boiling salted water until al dente, then drain and toss with the sauce. Stir in Parmesan to taste, then serve."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking, Mark Bittman",
+   "url": ""
+  },
+  "createdAt": "2026-11-08T20:50:00Z",
+  "updatedAt": "2026-11-08T20:50:00Z"
  }
 }
