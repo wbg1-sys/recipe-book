@@ -4040,5 +4040,99 @@
   },
   "createdAt": "2026-11-05T18:24:00Z",
   "updatedAt": "2026-11-05T18:24:00Z"
+ },
+ "middle-school-tacos": {
+  "title": "Middle-School Tacos",
+  "category": "Beef",
+  "description": "Classic ground-beef hard-shell tacos with a quick homemade chile-and-cumin sauce.",
+  "servings": 6,
+  "servingsText": "6",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "neutral oil, like canola, peanut or grapeseed"
+   },
+   {
+    "qty": 1,
+    "item": "medium-size yellow onion, peeled and diced"
+   },
+   {
+    "qty": 4,
+    "unit": "clove",
+    "item": "garlic, peeled and minced"
+   },
+   {
+    "qty": 2,
+    "unit": "lb",
+    "item": "ground beef"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "chile powder"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "ground cumin"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "kosher salt, or to taste"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "freshly ground black pepper, to taste"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "cornstarch"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "smoked paprika (or substitute hot or sweet paprika)"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "crushed red-pepper flakes, or to taste"
+   },
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "chicken broth or beef broth, low-sodium if store-bought"
+   },
+   {
+    "qty": 12,
+    "qtyMax": 18,
+    "item": "hard taco shells"
+   },
+   {
+    "qty": null,
+    "item": "Toppings: grated cheese, sliced jalapeños, chopped tomatoes, shredded lettuce, sour cream, guacamole, etc."
+   }
+  ],
+  "steps": [
+   "Place a large skillet over medium-high heat, and add the oil. When it begins to shimmer, add the onion, and cook until softened and starting to brown, approximately 5 to 7 minutes.",
+   "Add the garlic, and cook for a minute or so to soften, and then the ground beef. Cook until the beef is starting to brown, stirring and chopping with a spoon to break up the meat, approximately 5 to 7 minutes. Pour off excess fat, leaving only a tablespoon or two in the pan.",
+   "Heat oven to 325. Add the chile powder, cumin, salt, pepper, cornstarch, paprika and red-pepper flakes, and stir to combine. Add the broth, stir, bring to a simmer and cook uncovered until the sauce has thickened slightly, approximately 4 to 5 minutes.",
+   "As sauce cooks, place taco shells on a sheet pan, and toast in oven until they are crisp and smell nutty. Serve a few tablespoons of meat in each taco, along with whatever toppings you like."
+  ],
+  "tips": [],
+  "notes": [],
+  "source": {
+   "label": "NYT Cooking",
+   "url": ""
+  },
+  "createdAt": "2026-11-08T19:17:00Z",
+  "updatedAt": "2026-11-08T19:17:00Z"
  }
 }
