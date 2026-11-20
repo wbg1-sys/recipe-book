@@ -9,6 +9,7 @@ This repo is Will's recipe book app, served by GitHub Pages at https://wbg1-sys.
 - Steps are plain strings in the source's wording; times written like "10 minutes" become timers automatically.
 - Categories in use: Chicken, Beef, Pork & Sausage, Seafood. Others allowed: Vegetarian, Pasta, Soups & Stews, Sides, Breakfast, Baking, Desserts.
 - Set `updatedAt` (and `createdAt` for new recipes) to the current UTC ISO time. For NYT Cooking or other sources, fill `source.label` and `source.url`.
+- To "remove" a recipe, archive it instead (set `"archived": true` and bump `updatedAt`) unless Will explicitly asks to delete it.
 - Validate the JSON (`python3 -m json.tool recipes.json`) before committing.
 - Commit with a message naming the recipe, then push to `main`. Pages redeploys in about a minute.
 

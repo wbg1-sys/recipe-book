@@ -89,6 +89,7 @@ button { cursor: pointer; }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
 .chip { min-height: 40px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); font-size: 15px; font-weight: 700; color: var(--muted); }
 .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.arch-note { color: var(--muted); font-size: 15px; margin: -4px 0 12px; }
 .chip .n { font-weight: 400; margin-left: 4px; opacity: .8; }
 .group { margin-bottom: 30px; }
 .group h2 { font-family: var(--font-display); font-size: 24px; margin-bottom: 10px; }
@@ -242,6 +243,7 @@ const S = {
   system: readPref("system", "us"),
   cookStep: 0,
 };
+const ARCHIVE = "Archived";
 const CAT_ORDER = ["Chicken", "Beef", "Pork & Sausage", "Seafood", "Vegetarian", "Pasta", "Soups & Stews", "Sides", "Breakfast", "Baking", "Desserts"];
 
 /* ---------- helpers ---------- */
@@ -295,6 +297,7 @@ function normRecipe(r) {
     notes: arr(o.notes),
     source: { label: str(src.label, 160), url: /^https?:\/\//i.test(url) ? url : "" },
     createdAt: str(o.createdAt, 40), updatedAt: str(o.updatedAt, 40),
+    archived: o.archived === true,
   };
 }
 
@@ -406,7 +409,7 @@ function removeTimer(id) { const i = timers.findIndex((t) => t.id === id); if (i
 /* ---------- library ---------- */
 function sortedCats() {
   const cats = new Map();
-  for (const r of S.recipes.values()) cats.set(r.category, (cats.get(r.category) || 0) + 1);
+  for (const r of S.recipes.values()) if (!r.archived) cats.set(r.category, (cats.get(r.category) || 0) + 1);
   return [...cats.entries()].sort((a, b) => {
     const ia = CAT_ORDER.indexOf(a[0]), ib = CAT_ORDER.indexOf(b[0]);
     return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a[0].localeCompare(b[0]);
@@ -425,26 +428,38 @@ function cardMeta(r) {
   return bits.join(" · ");
 }
 function renderLibrary() {
-  const n = S.recipes.size;
-  $("lib-sub").textContent = S.failed ? "Couldn\u2019t load recipes." : !S.loaded ? "Loading recipes…" : n === 1 ? "1 recipe" : n + " recipes";
+  const all = [...S.recipes.entries()];
+  const n = all.filter(([, r]) => !r.archived).length, na = all.length - n;
+  $("lib-sub").textContent = S.failed ? "Couldn\u2019t load recipes." : !S.loaded ? "Loading recipes…" : (n === 1 ? "1 recipe" : n + " recipes") + (na ? " · " + na + " archived" : "");
   const cats = sortedCats();
   const chips = $("chips"); chips.replaceChildren();
-  if (S.cat !== "All" && !cats.some((c) => c[0] === S.cat)) S.cat = "All";
-  for (const [c, count] of [["All", n], ...cats]) {
+  if (S.cat !== "All" && !(S.cat === ARCHIVE ? na : cats.some((c) => c[0] === S.cat))) S.cat = "All";
+  for (const [c, count] of [["All", n], ...cats, ...(na ? [[ARCHIVE, na]] : [])]) {
     chips.append(h("button", { class: "chip", type: "button", "aria-pressed": String(S.cat === c), onclick: () => { S.cat = c; renderLibrary(); } }, c, h("span", { class: "n", text: count })));
   }
   const groups = $("groups"); groups.replaceChildren();
   if (!S.loaded) { groups.append(h("div", { class: "empty" }, h("strong", { text: S.failed ? "Recipes didn\u2019t load" : "Loading your recipes" }), S.failed ? "Check your connection and reopen the app. Once loaded, recipes stay available offline." : "One moment.")); return; }
   if (!n) { groups.append(h("div", { class: "empty" }, h("strong", { text: "No recipes yet" }), "Ask Claude in chat to add a recipe.")); return; }
   let shown = 0;
-  for (const [c] of cats) {
+  const card = (id, r, withCat) => h("button", { class: "card", type: "button", onclick: () => openRecipe(id) },
+    h("h3", { text: r.title }), r.description ? h("div", { class: "desc", text: r.description }) : null,
+    h("div", { class: "meta", text: (withCat ? r.category + " · " : "") + cardMeta(r) }));
+  if (S.cat === ARCHIVE) {
+    const rs = all.filter(([, r]) => r.archived && matches(r, S.q)).sort((a, b) => a[1].title.localeCompare(b[1].title));
+    if (rs.length) {
+      shown = rs.length;
+      groups.append(h("section", { class: "group", "aria-label": ARCHIVE }, h("h2", { text: ARCHIVE }),
+        h("p", { class: "arch-note", text: "Retired recipes, kept for reference. They don\u2019t appear in All or in search." }),
+        h("div", { class: "list" }, rs.map(([id, r]) => card(id, r, true)))));
+    }
+  }
+  for (const [c] of (S.cat === ARCHIVE ? [] : cats)) {
     if (S.cat !== "All" && S.cat !== c) continue;
-    const rs = [...S.recipes.entries()].filter(([, r]) => r.category === c && matches(r, S.q)).sort((a, b) => a[1].title.localeCompare(b[1].title));
+    const rs = all.filter(([, r]) => !r.archived && r.category === c && matches(r, S.q)).sort((a, b) => a[1].title.localeCompare(b[1].title));
     if (!rs.length) continue;
     shown += rs.length;
     const list = h("div", { class: "list" });
-    for (const [id, r] of rs) list.append(h("button", { class: "card", type: "button", onclick: () => openRecipe(id) },
-      h("h3", { text: r.title }), r.description ? h("div", { class: "desc", text: r.description }) : null, h("div", { class: "meta", text: cardMeta(r) })));
+    for (const [id, r] of rs) list.append(card(id, r, false));
     groups.append(h("section", { class: "group", "aria-label": c }, h("h2", { text: c }), list));
   }
   if (!shown) groups.append(h("div", { class: "empty" }, h("strong", { text: "No matches" }), "Try a different word, or clear the search."));
@@ -518,7 +533,7 @@ function renderRecipe() {
         shareIcon(),
         "Share")),
     h("article", { class: "rc" },
-      h("div", { class: "eyebrow", text: r.category }),
+      h("div", { class: "eyebrow", text: (r.archived ? "Archived · " : "") + r.category }),
       h("h1", { text: r.title }),
       facts.childNodes.length ? facts : null,
       r.description ? h("p", { class: "lede", text: r.description }) : null,

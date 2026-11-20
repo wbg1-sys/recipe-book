@@ -3731,7 +3731,8 @@
    "url": ""
   },
   "createdAt": "2026-10-30T14:40:00Z",
-  "updatedAt": "2026-11-20T00:51:00Z"
+  "updatedAt": "2026-11-20T01:05:00Z",
+  "archived": true
  },
  "chicken-stew": {
   "title": "Chicken Stew",

@@ -30,6 +30,8 @@ Will Gruppo's recipe book: a small web app that installs to an iPhone Home Scree
 }
 ```
 
+To retire a recipe without deleting it, add `"archived": true`. Archived recipes move to the Archived chip in the library and are hidden from All, category lists and search; links to them still work.
+
 Units that scale and convert: `tsp`, `tbsp`, `cup`, `oz`, `lb`, `g`, `kg`, `ml`, `l`. Other units (`clove`, `can`, `stalk`, `sprig`, `pinch`, ...) scale but don't convert.
 
 ## Hosting
