@@ -4231,5 +4231,134 @@
   },
   "createdAt": "2026-11-08T20:50:00Z",
   "updatedAt": "2026-11-08T20:50:00Z"
+ },
+ "creamy-ginger-curry-with-sweet-potato-green-beans-and-kale": {
+  "title": "Creamy Ginger Curry With Sweet Potato, Green Beans and Kale",
+  "category": "Vegetarian",
+  "description": "A mild, korma-style curry: sweet potatoes and chickpeas simmered in a gingery spiced tomato base, finished with heavy cream, green beans and kale.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "15 minutes",
+  "cook": "35 minutes",
+  "total": "About 50 minutes",
+  "ingredients": [
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "butter or neutral oil"
+   },
+   {
+    "qty": 1,
+    "item": "large onion, finely chopped"
+   },
+   {
+    "qty": 4,
+    "unit": "clove",
+    "item": "garlic, minced"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "fresh ginger, peeled and grated"
+   },
+   {
+    "qty": 2,
+    "unit": "tsp",
+    "item": "garam masala"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "ground cumin"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "ground turmeric"
+   },
+   {
+    "qty": 0.25,
+    "unit": "tsp",
+    "item": "cayenne or red-pepper flakes, or to taste"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "tomato paste"
+   },
+   {
+    "qty": 2,
+    "unit": "cup",
+    "item": "vegetable broth"
+   },
+   {
+    "qty": 1.5,
+    "unit": "lb",
+    "item": "sweet potatoes (about 2 medium), peeled and cut into ¾-inch cubes"
+   },
+   {
+    "qty": 1,
+    "unit": "can",
+    "item": "(15-ounce) chickpeas, drained and rinsed"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "kosher salt, plus more to taste"
+   },
+   {
+    "qty": 8,
+    "unit": "oz",
+    "item": "green beans, trimmed and cut into 1½-inch pieces"
+   },
+   {
+    "qty": 0.75,
+    "unit": "cup",
+    "item": "heavy cream"
+   },
+   {
+    "qty": 4,
+    "unit": "cup",
+    "item": "chopped kale, stems removed (about ½ bunch)"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "honey or brown sugar"
+   },
+   {
+    "qty": 1,
+    "item": "lime or lemon, half juiced, half cut into wedges"
+   },
+   {
+    "qty": 0.25,
+    "unit": "cup",
+    "item": "chopped cilantro, for serving"
+   },
+   {
+    "qty": null,
+    "item": "Rice or naan, for serving"
+   }
+  ],
+  "steps": [
+   "Heat the butter in a large Dutch oven over medium. Add the onion and a pinch of salt and cook, stirring, until soft and starting to color, about 7 minutes.",
+   "Add the garlic and ginger and cook 1 minute. Stir in the garam masala, cumin, turmeric, cayenne and tomato paste and cook, stirring, until the paste darkens and smells toasty, about 1 minute.",
+   "Add the broth, sweet potatoes, chickpeas and 1 teaspoon salt. Bring to a boil, then cover, reduce heat, and simmer until the sweet potatoes are just tender, about 15 minutes.",
+   "Stir in the green beans and simmer, uncovered, until crisp-tender, about 5 minutes.",
+   "Lower the heat so the pot is barely simmering. Stir in the cream, kale and honey and cook gently until the kale wilts and the sauce thickens slightly, about 5 minutes; don’t let it boil hard. If it’s too thick, add a splash of broth or water.",
+   "Squeeze in the juice from half the lime and taste for salt. Serve over rice or with naan, topped with cilantro, with lime wedges on the side."
+  ],
+  "tips": [
+   "With chicken: season 1½ pounds boneless, skinless chicken thighs, cut into 1½-inch pieces, with ½ teaspoon salt. Brown them in the butter over medium-high before the onion, about 5 minutes (they don’t need to cook through), and set aside. Continue as written, using chicken broth if you like, and return the chicken and its juices with the sweet potatoes. The chickpeas become optional.",
+   "Thicker sauce: mash a few sweet potato cubes against the side of the pot before adding the cream.",
+   "More heat: add a minced jalapeño with the ginger."
+  ],
+  "notes": [],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-11-21T18:30:00Z",
+  "updatedAt": "2026-11-21T18:30:00Z"
  }
 }
