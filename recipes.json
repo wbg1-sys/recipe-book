@@ -4400,5 +4400,126 @@
   },
   "createdAt": "2026-11-21T18:30:00Z",
   "updatedAt": "2026-11-23T18:00:00Z"
+ },
+ "green-couscous": {
+  "title": "Green Couscous",
+  "category": "Sides",
+  "description": "A bright side salad of couscous tossed with a smooth herb paste, golden onions, pistachios, green chile and arugula. Light but substantial; good with fish.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "couscous",
+    "group": "For the couscous"
+   },
+   {
+    "qty": 0.75,
+    "unit": "cup",
+    "item": "boiling water or vegetable stock",
+    "group": "For the couscous"
+   },
+   {
+    "qty": 1,
+    "item": "small onion, thinly sliced",
+    "group": "For the couscous"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "olive oil",
+    "group": "For the couscous"
+   },
+   {
+    "qty": 0.25,
+    "unit": "tsp",
+    "item": "salt",
+    "group": "For the couscous"
+   },
+   {
+    "qty": 0.25,
+    "unit": "tsp",
+    "item": "ground cumin",
+    "group": "For the couscous"
+   },
+   {
+    "qty": 0.3333,
+    "unit": "cup",
+    "item": "chopped parsley",
+    "group": "For the herb paste"
+   },
+   {
+    "qty": 1,
+    "unit": "cup",
+    "item": "chopped cilantro",
+    "group": "For the herb paste"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "chopped tarragon",
+    "group": "For the herb paste"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "chopped dill",
+    "group": "For the herb paste"
+   },
+   {
+    "qty": 2,
+    "unit": "tbsp",
+    "item": "chopped mint",
+    "group": "For the herb paste"
+   },
+   {
+    "qty": 6,
+    "unit": "tbsp",
+    "item": "olive oil",
+    "group": "For the herb paste"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "unsalted pistachios, toasted and roughly chopped",
+    "group": "To finish"
+   },
+   {
+    "qty": 3,
+    "item": "green onions, finely sliced",
+    "group": "To finish"
+   },
+   {
+    "qty": 1,
+    "item": "fresh green chile, finely sliced",
+    "group": "To finish"
+   },
+   {
+    "qty": 1.25,
+    "unit": "cup",
+    "item": "arugula leaves, chopped",
+    "group": "To finish"
+   }
+  ],
+  "steps": [
+   "Place the couscous in a large bowl and cover with the boiling water or stock. Cover the bowl with plastic wrap and leave for 10 minutes.",
+   "Meanwhile, fry the onion in the olive oil on medium heat until golden and completely soft. Add the salt and cumin and mix well. Leave to cool slightly.",
+   "To make the herb paste, place all the ingredients in a food processor and blitz until smooth.",
+   "Add the herb paste to the couscous and mix everything together well with a fork to fluff it up. Now add the cooked onion, the pistachios, green onions, green chile and arugula and gently mix. Serve at room temperature."
+  ],
+  "tips": [
+   "Gluten-free: couscous is wheat, so use 1 cup quinoa instead. Simmer it in 1¾ cups water or stock until tender, about 15 minutes, then let it steam off the heat, covered, for 5 minutes and fluff before adding the herb paste."
+  ],
+  "notes": [],
+  "source": {
+   "label": "Plenty, Yotam Ottolenghi",
+   "url": ""
+  },
+  "createdAt": "2026-11-24T23:30:00Z",
+  "updatedAt": "2026-11-24T23:30:00Z"
  }
 }
