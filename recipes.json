@@ -4521,5 +4521,91 @@
   },
   "createdAt": "2026-11-24T23:30:00Z",
   "updatedAt": "2026-11-24T23:30:00Z"
+ },
+ "pasta-and-fried-zucchini-salad": {
+  "title": "Pasta and Fried Zucchini Salad",
+  "category": "Pasta",
+  "description": "Fried zucchini dressed in red wine vinegar, tossed with pasta, edamame, a basil-parsley sauce, lemon zest, capers and torn buffalo mozzarella. Makes an ideal picnic dish. Strozzapreti is traditional here, but any interesting short pasta works.",
+  "servings": 4,
+  "servingsText": "4",
+  "prep": "",
+  "cook": "",
+  "total": "",
+  "ingredients": [
+   {
+    "qty": 0.6667,
+    "unit": "cup",
+    "item": "sunflower oil"
+   },
+   {
+    "qty": 3,
+    "item": "medium zucchini, cut into ¼-inch-thick slices"
+   },
+   {
+    "qty": 1.5,
+    "unit": "tbsp",
+    "item": "red wine vinegar"
+   },
+   {
+    "qty": 0.75,
+    "unit": "cup",
+    "item": "frozen edamame"
+   },
+   {
+    "qty": 2,
+    "unit": "cup",
+    "item": "basil leaves, shredded coarsely"
+   },
+   {
+    "qty": 0.25,
+    "unit": "cup",
+    "item": "parsley leaves"
+   },
+   {
+    "qty": 0.3333,
+    "unit": "cup",
+    "item": "olive oil"
+   },
+   {
+    "qty": null,
+    "item": "Salt and black pepper"
+   },
+   {
+    "qty": 9,
+    "unit": "oz",
+    "item": "strozzapreti or penne"
+   },
+   {
+    "qty": 1,
+    "item": "lemon, zest grated"
+   },
+   {
+    "qty": 1.5,
+    "unit": "tbsp",
+    "item": "small capers"
+   },
+   {
+    "qty": 7,
+    "unit": "oz",
+    "item": "buffalo mozzarella, torn by hand into chunks"
+   }
+  ],
+  "steps": [
+   "Bring a large pot of salted water to a boil. Heat the sunflower oil in a medium saucepan over medium-high heat. Fry the zucchini slices in a few batches, making sure you don’t crowd them, for 3 minutes, or until golden brown on both sides; turn them over once only. As they are cooked, transfer to a colander to drain. Tip the zucchini slices into a bowl, pour over the vinegar and stir, then set aside.",
+   "Blanch the edamame for 3 minutes in boiling water; drain, refresh under running cold water and set aside to dry.",
+   "Combine half the basil, all of the parsley and the olive oil in a food processor, adding a bit of salt and pepper. Blitz to a smooth sauce.",
+   "Cook the pasta until al dente; drain and rinse under a stream of cold water. Return to the pan in which it was cooked.",
+   "Pour the zucchini and their juices over the pasta. Add the edamame, basil sauce, lemon zest, capers and mozzarella. Stir gently together, then taste and season with plenty of salt and pepper. Before serving, stir in the remaining basil."
+  ],
+  "tips": [
+   "Gluten-free: use 9 ounces gluten-free penne or another short shape, cooked a minute short and rinsed. It firms up as it sits, so toss it with the zucchini and basil sauce soon after cooking and add a splash more olive oil if it seems dry."
+  ],
+  "notes": [],
+  "source": {
+   "label": "Plenty, Yotam Ottolenghi",
+   "url": ""
+  },
+  "createdAt": "2026-11-24T23:35:00Z",
+  "updatedAt": "2026-11-24T23:35:00Z"
  }
 }
