@@ -4607,5 +4607,77 @@
   },
   "createdAt": "2026-11-24T23:35:00Z",
   "updatedAt": "2026-11-24T23:35:00Z"
+ },
+ "mixer-mashed-potatoes": {
+  "title": "Mixer Mashed Potatoes With Sour Cream",
+  "category": "Sides",
+  "description": "Fluffy, tangy mashed potatoes whipped with butter, warm milk and sour cream using a hand or stand mixer.",
+  "servings": 6,
+  "servingsText": "6",
+  "prep": "10 minutes",
+  "cook": "25 minutes",
+  "total": "About 35 minutes",
+  "ingredients": [
+   {
+    "qty": 3,
+    "unit": "lb",
+    "item": "Yukon Gold or russet potatoes, peeled and cut into 2-inch chunks"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "kosher salt, for the cooking water"
+   },
+   {
+    "qty": 6,
+    "unit": "tbsp",
+    "item": "unsalted butter, softened"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "sour cream, at room temperature"
+   },
+   {
+    "qty": 0.5,
+    "unit": "cup",
+    "item": "whole milk or half-and-half, warmed, plus more as needed"
+   },
+   {
+    "qty": 1,
+    "unit": "tsp",
+    "item": "kosher salt, plus more to taste"
+   },
+   {
+    "qty": 0.25,
+    "unit": "tsp",
+    "item": "black or white pepper"
+   },
+   {
+    "qty": 1,
+    "unit": "tbsp",
+    "item": "chopped chives, for serving (optional)"
+   }
+  ],
+  "steps": [
+   "Put the potatoes in a large pot, cover with cold water by an inch, and add 1 tablespoon salt. Bring to a boil, then simmer until a knife slides through a chunk with no resistance, about 18 minutes.",
+   "Drain well, then return the potatoes to the hot pot over low heat for 1 to 2 minutes, shaking, to steam off excess water. Dry potatoes whip fluffier.",
+   "Transfer to the mixer bowl (or use a hand mixer right in the pot). Beat on low just until broken into small pieces, about 30 seconds.",
+   "Add the butter and beat on low until melted. Add the sour cream, then, with the mixer running on low, pour in the milk a little at a time. Add 1 teaspoon salt and the pepper.",
+   "Increase to medium and beat just until smooth and fluffy, 20 to 30 seconds. Stop as soon as they look right; overbeating makes them gummy. Add a splash more milk if too stiff, taste for salt, and serve topped with chives, if using."
+  ],
+  "tips": [
+   "Food processor: skip the metal S-blade, which turns potatoes gluey in seconds. Mash by hand or with a ricer instead, or, if the processor has a plastic dough blade, pulse only a few times with the butter, sour cream and milk.",
+   "Potatoes: Yukon Golds are creamier; russets are fluffier.",
+   "Holding: cover and keep warm over a pot of barely simmering water, stirring in a splash of warm milk before serving.",
+   "Make ahead: refrigerate up to 2 days, then reheat with extra milk and butter."
+  ],
+  "notes": [],
+  "source": {
+   "label": "",
+   "url": ""
+  },
+  "createdAt": "2026-11-26T20:00:00Z",
+  "updatedAt": "2026-11-26T20:00:00Z"
  }
 }
